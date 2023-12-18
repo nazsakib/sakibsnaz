@@ -2,7 +2,7 @@
 title: CS50’s Introduction to Databases with SQL
 date: 2023-12-09
 images:
-- https://www.freecodecamp.org/news/content/images/2020/06/harvard-cs50-certificate-sample.png
+- https://fastly.picsum.photos/id/47/4272/2848.jpg?hmac=G8dXSLa-ngBieraQt5EORu-4r6tveX3fhvBTZM0Y8xM
 description: CS50x - Harvard University.
 ---
 
