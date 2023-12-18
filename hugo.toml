@@ -1,7 +1,7 @@
 baseURL = ''
 languageCode = 'en-us'
 theme = 'digitalgarden'
-title = 'sakibNazmush'
+title = '<sakibsNaz/>'
 
 [menu]
 [[menu.main]]
