@@ -2,7 +2,7 @@
 title: Advanced WordPress Development
 date: 2023-12-09
 images:
-- https://i.picsum.photos/id/1042/400/300.jpg?hmac=rBcizcYvtdgLbwltE3uU3EWyFbuBGpyy9C2YilmohL0
+- https://fastly.picsum.photos/id/60/1920/1200.jpg?hmac=fAMNjl4E_sG_WNUjdU39Kald5QAHQMh-_-TsIbbeDNI
 description: Softtech-It Ltd
 ---
 
