@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Watchlist on sakibNazmush</title>
+    <link>e.com/watchlist/</link>
+    <description>Recent content in My Watchlist on sakibNazmush</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="e.com/watchlist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top Gun - Maverick</title>
+      <link>e.com/watchlist/movie2/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>e.com/watchlist/movie2/</guid>
+      <description>coming soon </description>
+    </item>
+    <item>
+      <title>Mission Impossible - Dead Reckoning Part One</title>
+      <link>e.com/watchlist/movie3/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>e.com/watchlist/movie3/</guid>
+      <description>coming soon </description>
+    </item>
+    <item>
+      <title>Expend4bles</title>
+      <link>e.com/watchlist/movie1/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>e.com/watchlist/movie1/</guid>
+      <description>coming soon </description>
+    </item>
+  </channel>
+</rss>

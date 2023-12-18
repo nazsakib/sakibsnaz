@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on sakibNazmush</title>
+    <link>e.com/articles/</link>
+    <description>Recent content in Articles on sakibNazmush</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="e.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. WordPress - A Versatile Platform for Seamless Web Development</title>
+      <link>e.com/articles/art1/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>e.com/articles/art1/</guid>
+      <description>Introduction WordPress, a powerful and versatile content management system (CMS), has become the go-to choice for website development due to its ease of use, extensive features, and robust community support. With over 40% of the web powered by WordPress, it has evolved from a simple blogging tool to a full-fledged CMS used by individuals, businesses, and enterprises worldwide.&#xA;Installation Installation of WordPress is a straightforward process, making it accessible to users of all levels of technical expertise.</description>
+    </item>
+    <item>
+      <title>2. Web Development - A Journey Through Time and Technology</title>
+      <link>e.com/articles/art2/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>e.com/articles/art2/</guid>
+      <description>Past: The inception of web development dates back to the early 1990s when the World Wide Web became publicly accessible. Initially, websites were simple, static pages coded in HTML. The rudimentary nature of these early websites marked the humble beginnings of web development. As the internet gained popularity, the demand for dynamic and interactive websites led to the introduction of technologies like CSS for styling and JavaScript for enhancing user experience.</description>
+    </item>
+  </channel>
+</rss>

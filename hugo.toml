@@ -1,0 +1,87 @@
+baseURL = 'e.com'
+languageCode = 'en-us'
+theme = 'digitalgarden'
+title = 'sakibNazmush'
+
+[menu]
+[[menu.main]]
+name = '👤Home'
+url = '/'
+weight = 1
+[[menu.main]]
+name = 'Content'
+params.header = true
+weight = 2
+[[menu.main]]
+name = '📜Articles'
+url = '/articles'
+weight = 3
+[[menu.main]]
+name = '💼Projects'
+url = '/projects'
+weight = 4
+[[menu.main]]
+name = '🛠️Stack'
+url = '/stack'
+weight = 5
+[[menu.main]]
+name = '🧾Certificates'
+url = '/certificates'
+weight = 6
+[[menu.main]]
+name = 'Profiles'
+params.header = true
+weight = 7
+[[menu.main]]
+name = '▶️WordPress'
+url = 'https://profiles.wordpress.org/sakibsnaz/'
+weight = 8
+[[menu.main]]
+name = 'Blogs'
+params.header = true
+weight = 9
+[[menu.main]]
+name = '🖊️ dev.to'
+url = 'https://dev.to/dashboard'
+weight = 10
+[[menu.main]]
+name = '🫱🏻‍🫲🏽medium'
+url = 'https://medium.com/@nazsakib'
+weight = 11
+[[menu.main]]
+name = 'Others'
+params.header = true
+weight = 12
+[[menu.main]]
+name = '📚Reading List'
+url = '/reading_list'
+weight = 13
+[[menu.main]]
+name = '🎬Watchlist'
+url = '/watchlist'
+weight = 14
+
+[[menu.social]]
+name = 'Twitter'
+url = 'https://twitter.com/sakibsnaz'
+weight = 1
+[[menu.social]]
+name = 'GitHub'
+url = 'https://github.com/nazsakib'
+weight = 2
+[[menu.social]]
+name = 'LinkedIn'
+url = 'https://www.linkedin.com/in/sakibsnaz/'
+weight = 3
+[[menu.social]]
+name = 'Gmail'
+url = 'mailto:sakibsnaz@gmail.com'
+weight = 4
+
+# syntax highlight settings
+[markup]
+[markup.highlight]
+style = "dracula"
+[markup.goldmark.renderer]
+# Enable to include inline HTML
+unsafe = false

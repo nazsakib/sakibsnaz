@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on sakibNazmush</title>
+    <link>e.com/projects/</link>
+    <description>Recent content in Projects on sakibNazmush</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Dec 2023 09:56:53 +0600</lastBuildDate>
+    <atom:link href="e.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cleaning Comapny Website</title>
+      <link>e.com/projects/project1/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>e.com/projects/project1/</guid>
+      <description>🚀 A cleaning company website with booking and payment gateway functionalities. See here: Behance&#xA;Greetings!&#xA;I&amp;rsquo;m thrilled to present my latest solo project – a dynamic WordPress website that not only showcases my passion for web development but also seamlessly integrates advanced booking functionalities and secure payment gateways. Using HTML, CSS, JavaScript, and PHP, I&amp;rsquo;ve created a versatile platform that goes beyond the ordinary.&#xA;Key Accomplishments:&#xA;🎨 Elementor Expertise: I&amp;rsquo;ve harnessed the power of Elementor, a cornerstone in my toolkit, to design visually stunning layouts that captivate visitors.</description>
+    </item>
+  </channel>
+</rss>
