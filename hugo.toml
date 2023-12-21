@@ -17,49 +17,53 @@ name = '📜Articles'
 url = '/articles'
 weight = 3
 [[menu.main]]
+name = '💻Experience'
+url = '/experience'
+weight = 4
+[[menu.main]]
 name = '💼Projects'
 url = '/projects'
-weight = 4
+weight = 5
 [[menu.main]]
 name = '🛠️Stack'
 url = '/stack'
-weight = 5
+weight = 6
 [[menu.main]]
 name = '🧾Certificates'
 url = '/certificates'
-weight = 6
+weight = 7
 [[menu.main]]
 name = 'Profiles'
 params.header = true
-weight = 7
+weight = 8
 [[menu.main]]
 name = '▶️WordPress'
 url = 'https://profiles.wordpress.org/sakibsnaz/'
-weight = 8
+weight = 9
 [[menu.main]]
 name = 'Blogs'
 params.header = true
-weight = 9
+weight = 10
 [[menu.main]]
 name = '🖊️ dev.to'
 url = 'https://dev.to/dashboard'
-weight = 10
+weight = 11
 [[menu.main]]
 name = '🫱🏻‍🫲🏽medium'
 url = 'https://medium.com/@nazsakib'
-weight = 11
+weight = 12
 [[menu.main]]
 name = 'Others'
 params.header = true
-weight = 12
+weight = 13
 [[menu.main]]
 name = '📚Reading List'
 url = '/reading_list'
-weight = 13
+weight = 14
 [[menu.main]]
 name = '🎬Watchlist'
 url = '/watchlist'
-weight = 14
+weight = 15
 
 [[menu.social]]
 name = 'Twitter'
