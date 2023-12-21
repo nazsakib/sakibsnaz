@@ -3,7 +3,7 @@ title: Cleaning Comapny Website
 date: 2023-09-23
 images:
 - https://lh3.googleusercontent.com/drive-viewer/AK7aPaBU3uF4ApWjSjKuYBaYGWTdsnFH2r3H9RVvhrOd5bxWpV5FuGUHcn9arvaObW9UlinEe5euXbVWXTgPnWw86KWH532IOw=s1600
-description: Sprinkles jelly ipsum sweet biscuit marzipan. Jelly dolor biscuit croissant croissant sweet.
+description: Cleaning Company Website image from Behance.
 ---
 
 ### 🚀 A cleaning company website with booking and payment gateway functionalities. 
