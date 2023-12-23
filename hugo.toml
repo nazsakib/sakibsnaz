@@ -5,7 +5,7 @@ title = 'sakibsNaz/>'
 
 [menu]
 [[menu.main]]
-name = '👤Home'
+name = '👤 Home'
 url = '/'
 weight = 1
 [[menu.main]]
@@ -13,23 +13,23 @@ name = 'Content'
 params.header = true
 weight = 2
 [[menu.main]]
-name = '📜Articles'
+name = '📜 Articles'
 url = '/articles'
 weight = 3
 [[menu.main]]
-name = '💻Experience'
+name = '💻 Experience'
 url = '/experience'
 weight = 4
 [[menu.main]]
-name = '💼Projects'
+name = '💼 Projects'
 url = '/projects'
 weight = 5
 [[menu.main]]
-name = '🛠️Stack'
+name = '🛠️ Stack'
 url = '/stack'
 weight = 6
 [[menu.main]]
-name = '🧾Certificates'
+name = '🧾 Certificates'
 url = '/certificates'
 weight = 7
 [[menu.main]]
@@ -37,7 +37,7 @@ name = 'Profiles'
 params.header = true
 weight = 8
 [[menu.main]]
-name = '▶️WordPress'
+name = '▶️ WordPress'
 url = 'https://profiles.wordpress.org/sakibsnaz/'
 weight = 9
 [[menu.main]]
@@ -49,7 +49,7 @@ name = '🖊️ dev.to'
 url = 'https://dev.to/dashboard'
 weight = 11
 [[menu.main]]
-name = '🫱🏻‍🫲🏽medium'
+name = '🫱🏻‍🫲🏽 medium'
 url = 'https://medium.com/@nazsakib'
 weight = 12
 [[menu.main]]
@@ -57,11 +57,11 @@ name = 'Others'
 params.header = true
 weight = 13
 [[menu.main]]
-name = '📚Reading List'
+name = '📚 Reading List'
 url = '/reading_list'
 weight = 14
 [[menu.main]]
-name = '🎬Watchlist'
+name = '🎬 Watchlist'
 url = '/watchlist'
 weight = 15
 
