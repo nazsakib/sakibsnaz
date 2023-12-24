@@ -37,33 +37,37 @@ name = 'Profiles'
 params.header = true
 weight = 8
 [[menu.main]]
-name = '▶️ WordPress'
+name = '🌍 WordPress'
 url = 'https://profiles.wordpress.org/sakibsnaz/'
 weight = 9
 [[menu.main]]
+name = '⭐ Fiverr'
+url = 'https://www.fiverr.com/sakibsnaz'
+weight = 10
+[[menu.main]]
 name = 'Blogs'
 params.header = true
-weight = 10
+weight = 11
 [[menu.main]]
 name = '🖊️ dev.to'
 url = 'https://dev.to/dashboard'
-weight = 11
+weight = 12
 [[menu.main]]
 name = '🫱🏻‍🫲🏽 medium'
 url = 'https://medium.com/@nazsakib'
-weight = 12
+weight = 13
 [[menu.main]]
 name = 'Others'
 params.header = true
-weight = 13
+weight = 14
 [[menu.main]]
 name = '📚 Reading List'
 url = '/reading_list'
-weight = 14
+weight = 15
 [[menu.main]]
 name = '🎬 Watchlist'
 url = '/watchlist'
-weight = 15
+weight = 16
 
 [[menu.social]]
 name = 'Twitter'
