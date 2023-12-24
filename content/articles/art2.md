@@ -22,4 +22,4 @@ As of now, there are over 1.8 billion websites globally, a number continually gr
 
 In conclusion, web development has traversed a remarkable journey from its humble beginnings to the sophisticated landscape we see today. As technology continues to advance, the future promises even more innovative and immersive web experiences, making web development an ever-evolving and exciting field.
 
-→ [Configure Metatags](/articles/metatags)
+→ [Back to Articles](/articles)
