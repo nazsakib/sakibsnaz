@@ -19,7 +19,7 @@
 
         {{ with .Params.images }}
         {{- range first 1 . }}
-        <img class="rounded max-w-full w-full mb-4" src="{{ . }}" alt="{{ $title }}" />
+        <img class="rounded max-w-full w-full mb-4" style="height: 500px;" src="{{ . }}" alt="{{ $title }}" />
         {{ end -}}
         {{ end }}
         <h3 class="text-lg font-semibold mb-0.5 lg:text-xl 2xl:text-3xl">{{ $title }}</h3>
