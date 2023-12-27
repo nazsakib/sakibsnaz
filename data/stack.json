@@ -124,5 +124,12 @@
       "link": "https://www.figma.com/",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
       "tag": "GraphicDesign"
+    },
+    {
+      "name": "PSD",
+      "description": "Mostly used for PSD to HTML",
+      "link": "https://www.adobe.com/products/photoshop.html",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png",
+      "tag": "GraphicDesign"
     }
   ]
