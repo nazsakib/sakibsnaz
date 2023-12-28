@@ -43,10 +43,6 @@ name = '🌍 WordPress'
 url = 'https://profiles.wordpress.org/sakibsnaz/'
 weight = 9
 [[menu.main]]
-name = '⭐ Fiverr'
-url = 'https://www.fiverr.com/sakibsnaz'
-weight = 10
-[[menu.main]]
 name = 'Blogs'
 params.header = true
 weight = 11
