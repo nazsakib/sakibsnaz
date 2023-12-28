@@ -7,14 +7,14 @@ images:
 
 ---
 
-#### A webinar organized by weDevs Academy on WordPress plugin development covers the best coding practices, career opportunities, and a Q&A session dedicated to this field. The session covered aspects such as career opportunities for developers, the current state of WordPress plugin development, and additional in-depth discussions on relevant subjects.
----
-I recently had the amazing opportunity to attend the webinar on WordPress plugin development, hosted by [weDevs Academy](https://wedevs.academy/) and featuring industry leaders. It was an incredibly valuable chance to learn from senior experts like Hasin bhai, Nahid bhai, and Tareq bhai. My sincere thanks to weDevs and the wonderful host, Raad bhai, for providing such a fantastic learning experience. 
+## Overview
+
+I recently had the amazing opportunity to attend A webinar organized by [weDevs Academy](https://wedevs.academy/) on WordPress plugin development covers the best coding practices, career opportunities, and a Q&A session dedicated to this field. The session covered aspects such as career opportunities for developers, the current state of WordPress plugin development, and additional in-depth discussions on relevant subjects. hosted by  and featuring industry leaders. It was an incredibly valuable chance to learn from senior experts like Hasin bhai, Nahid bhai, and Tareq bhai. My sincere thanks to weDevs and the wonderful host, Raad bhai, for providing such a fantastic learning experience. 
 
 First, I'll focus on summarizing the key topics and key points covered in the webinar. These are the essential takeaways that I want to remember and be able to refer back to later. Then, I'll add the Q&A section, which will provide further insights and clarify any outstanding questions.
 
 ---
-## Table of Contentes
+## Table of Contents
 1. [What is Plugin Development and how to start](#what-is-plugin-development-and-how-to-start)
 2. [Architecture, design approach of WordPress Plugin](#architecture-design-approach-of-wordpress-plugin)
 3. [Essentials Tools and Technologies for Plugin Development](#essentials-tools-and-technologies-for-plugin-development)
@@ -195,3 +195,6 @@ You can checkout the course details in weDevs Academy [Facebook page](https://ww
 ---
 
 And that's a wrap! The wonderful session has come to an end. Raad Bhai hosted the program amazingly, keeping the viewers engaged throughout the session, just like the guests did.
+
+
+→ [Go to the Top](#overview)
