@@ -14,6 +14,18 @@ I recently had the amazing opportunity to attend the webinar on WordPress plugin
 First, I'll focus on summarizing the key topics and key points covered in the webinar. These are the essential takeaways that I want to remember and be able to refer back to later. Then, I'll add the Q&A section, which will provide further insights and clarify any outstanding questions.
 
 ---
+## Table of Contentes
+1. [What is Plugin Development and how to start](#what-is-plugin-development-and-how-to-start)
+2. [Architecture, design approach of WordPress Plugin](#architecture-design-approach-of-wordpress-plugin)
+3. [Essentials Tools and Technologies for Plugin Development](#essentials-tools-and-technologies-for-plugin-development)
+4. [Security Best Practices](#security-best-practices)
+5. [Feedback Handling](#feedback-handling)
+6. [Testing Methodologies](#testing-methodologies)
+7. [Updated with WordPress newly released versions](#updated-with-wordpress-newly-released-versions)
+8. [QnA](#qna)
+9. [Learn WordPress Plugin Development](#learn-wordpress-plugin-development)
+10. [Tips for Newcomers](#tips-for-newcomers)
+---
 ## Host
 1. Raad Sheraz, SMM Specialist, [weDevs](https://wedevs.com/)
 
