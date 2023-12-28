@@ -1,7 +1,9 @@
 baseURL = ''
 languageCode = 'en-us'
-theme = 'digitalgarden'
 title = 'sakibsNaz/>'
+theme = 'digitalgarden'
+
+googleAnalytics = "UA-PROPERTY_ID"
 
 [menu]
 [[menu.main]]
