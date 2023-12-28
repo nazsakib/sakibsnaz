@@ -66,23 +66,23 @@ Additionally, When developing a plugin, it is considered good practice to levera
 
 
 ## Essentials Tools and Technolgies for Plugin Development
-Nahid bhai discussed about the significance of having the *WordPress Codex* as a fundamental tool for every WordPress developer. According to Hasin bhai and Tareq bhai, the codex contains comprehensive information on every function, including community notes that facilitate easy comprehension of functions. They highlighted that adhering to the codex ensures compliance with a majority of coding standards.
+Nahid bhai discussed about the significance of having the [WordPress Codex](https://codex.wordpress.org/) as a fundamental tool for every WordPress developer. According to Hasin bhai and Tareq bhai, the codex contains comprehensive information on every function, including community notes that facilitate easy comprehension of functions. They highlighted that adhering to the codex ensures compliance with a majority of coding standards.
 
-Additionally, for local development, widely used tools include Local By Fly Wheel. Some companies, such as 10up, use their internal system, 10up Docker, based on Docker, even though it's open source. With a simple command, a WordPress site can be created in 10up Docker. Other universally recognized tools include the VS Code Editor, Git for version control, Composer for dependency management, and Webpack for frontend bundling.
+Additionally, for local development, widely used tools include Local By Fly Wheel. Some companies, such as 10up, use their internal system, [10up Docker](https://github.com/10up/wp-local-docker-v2), based on Docker, even though it's open source. With a simple command, a WordPress site can be created in 10up Docker. Other universally recognized tools include the [VS Code Editor](https://code.visualstudio.com/), [Git](https://git-scm.com/) for version control, [Composer](https://getcomposer.org/) for dependency management, and [Webpack](https://webpack.js.org/) for frontend bundling.
 
-A critical aspect for creating a scalable plugin is testing. For PHP, [PHPUnit](https://phpunit.de/) is recommended, and for [React](https://react.dev/), [Jest](https://jestjs.io/) is commonly used. Linting tools like PHP_CodeSniffer help maintain a consistent coding structure throughout the codebase.
+A critical aspect for creating a scalable plugin is testing. For [PHP](https://www.php.net/), [PHPUnit](https://phpunit.de/) is recommended, and for [React](https://react.dev/), [Jest](https://jestjs.io/) is commonly used. Linting tools like [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) help maintain a consistent coding structure throughout the codebase.
 
 
 ## Security Best Practices
-Hasin bhai supported Nahid bhai's viewpoint and further emphasized the importance of using a configurable editor. While preferences may vary, with some favoring Visual Studio Code and others opting for PHP Storm, Hasin bhai personally uses VS Code. He highlighted the necessity of being familiar with command line tools like WP-CLI for efficient WordPress development.
+Hasin bhai supported Nahid bhai's viewpoint and further emphasized the importance of using a configurable editor. While preferences may vary, with some favoring Visual Studio Code and others opting for [PHP Storm](https://www.jetbrains.com/phpstorm/), Hasin bhai personally uses VS Code. He highlighted the necessity of being familiar with command line tools like [WP-CLI](https://wp-cli.org/) for efficient WordPress development.
 
-In terms of quick deployment, he suggested using tools like SFTP and Rsync. These methods facilitate rapid and reliable deployment of WordPress projects, ensuring smooth and efficient processes in the development workflow.
+In terms of quick deployment, he suggested using tools like [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) and [Rsync](https://en.wikipedia.org/wiki/Rsync). These methods facilitate rapid and reliable deployment of WordPress projects, ensuring smooth and efficient processes in the development workflow.
 
 Back in topic, secure plugin development. To mitigate these vulnerabilities, developers can implement practices such as::
 
-- XSS ( Cross-site scripting )
-- CSRF ( Cross-site request forgery )
-- SQL Injection
+- [XSS](https://owasp.org/www-community/attacks/xss/) ( Cross-site scripting )
+- [CSRF](https://owasp.org/www-community/attacks/csrf) ( Cross-site request forgery )
+- [SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection)
 
 From these types of vulnerabilities you can do some things like:
 
@@ -96,7 +96,7 @@ Furthermore, it's crucial to ensure that no one can execute files from your plug
 
 Hasin bhai mentioned something important that Tareq bhai said about keeping your plugin easy to maintain. If there are any issues or vulnerabilities, you should be ready to quickly fix them and release updates. This ensures that your plugin stays secure and users can rely on it and suggested to follow [Patchstack](https://patchstack.com/index.php) and emphasized on self learning, read documentation and internal [WordPress security](https://developer.wordpress.org/advanced-administration/security/) guidelines.
 
-Tareq bhai agreed with Hasin bhai and emphasized the importance of simple but crucial practices like Validation, Sanitization, and Escaping. He also dropped some hints about the significance of authentication and authorization in ensuring the security of a WordPress plugin. Many people believe that WordPress sites are not secure, but that's not entirely true. WordPress itself is a secure system. Being open-source with millions of users means that any vulnerabilities can be quickly identified and fixed. The large community surrounding WordPress contributes to a robust security ecosystem, ensuring a timely response to potential issues.
+Tareq bhai agreed with Hasin bhai and emphasized the importance of simple but important practices like Validation, Sanitization, and Escaping. He also dropped some hints about the significance of authentication and authorization in ensuring the security of a WordPress plugin. Many people believe that WordPress sites are not secure, but that's not entirely true. WordPress itself is a secure system. Being open-source with millions of users means that any vulnerabilities can be quickly identified and fixed. The large community surrounding WordPress contributes to a robust security ecosystem, ensuring a timely response to potential issues.
 
 Tareq bhai also highlighted an important aspect: the security of WordPress depends on plugin developers as well. If a plugin with vulnerabilities is installed on a significant number of sites, say 50 thousand, its impact can be substantial. Therefore, it's crucial for plugin developers to be mindful of potential security issues and actively work towards ensuring the safety of their plugins to prevent widespread vulnerabilities.
 
@@ -118,7 +118,7 @@ By listening to your users and their needs, your plugin becomes more than just a
 
 
 ## Testing Methodologies
-Nahid bhai is currently working on the Google Site Kit plugin, which boasts over 3 million active installations. He shared insights into the real-life scenario of working on this plugin, detailing the challenges and experiences encountered during its development and maintenance.
+Nahid bhai is currently working on the [Google Site Kit](https://sitekit.withgoogle.com/) plugin, which boasts over 3 million active installations. He shared insights into the real-life scenario of working on this plugin, detailing the challenges and experiences encountered during its development and maintenance.
 
 Firstly, they conduct thorough testing of each function and class. For the PHP component, PHPUnit is utilized. As for the administrative panel of Google Site Kit, which is built on the JavaScript framework React, testing is carried out using Jest.
 
