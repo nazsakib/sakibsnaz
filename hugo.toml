@@ -92,4 +92,4 @@ weight = 4
 style = "dracula"
 [markup.goldmark.renderer]
 # Enable to include inline HTML
-unsafe = false
+unsafe = true
