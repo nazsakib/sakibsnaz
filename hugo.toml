@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://sakibsnaz.vercel.app/'
 languageCode = 'en-us'
 title = 'sakibsNaz/>'
 theme = 'digitalgarden'
