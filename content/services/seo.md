@@ -29,6 +29,7 @@ Building strong and reputable connections to your site, enhancing its credibilit
 I approach SEO with a combination of creativity and technical prowess. By understanding your business and audience, I tailor strategies that resonate and drive results. From tweaking website code to creating compelling content, I ensure your site stands out amidst the digital noise.
 
 Ready to take your online presence to new heights? Let's chat and bring the SEO magic to your website!
+
 ---
 
 **Contact:**
