@@ -1,135 +1,141 @@
 [
-    {
-      "name": "Notion",
-      "description": "Notion is a freemium productivity and note-taking web application.",
-      "link": "https://notion.so",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png",
-      "tag": "Productivity"
-    },
-    {
-      "name": "Trello",
-      "description": "Trello is a web-based, kanban-style collaboration tool that enables you to organize projects.",
-      "link": "https://trello.com",
-      "icon": "https://play-lh.googleusercontent.com/CiGs15N1e1tXrSnVLEY9jOnKi1oNzPQNRjqhR8fXE0pnu_bRyNmfc8xXr2VQUJTfJ9A",
-      "tag": "Productivity"
-    },
-    {
-      "name": "WordPress",
-      "description": "WordPress is a web content management system.",
-      "link": "https://wordpress.org",
-      "icon": "https://s.w.org/style/images/about/WordPress-logotype-wmark.png",
-      "tag": "CMS"
-    },
-    {
-      "name": "JavaScript",
-      "description": "JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language.",
-      "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png",
-      "tag": "Webdev"
-    },
-    {
-      "name": "jQuery",
-      "description": "jQuery: The Write Less, Do More, JavaScript Library.",
-      "link": "https://jquery.com/",
-      "icon": "https://avatars.githubusercontent.com/u/70142?s=200&v=4",
-      "tag": "Webdev"
-    },
-    {
-      "name": "PHP",
-      "description": "PHP is a general-purpose scripting language geared towards web development.",
-      "link": "https://www.php.net/",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png",
-      "tag": "Webdev"
-    },
-    {
-      "name": "MySQL",
-      "description": "MySQL is an open-source relational database management system.",
-      "link": "https://www.mysql.com/",
-      "icon": "https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png",
-      "tag": "DBMS"
-    },
-    {
-      "name": "HTML",
-      "description": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.",
-      "link": "https://en.wikipedia.org/wiki/HTML",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png",
-      "tag": "Webdev"
-    },
-    {
-      "name": "CSS",
-      "description": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.",
-      "link": "https://en.wikipedia.org/wiki/CSS",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png",
-      "tag": "Webdev"
-    },
-    {
-      "name": "Tailwind CSS",
-      "description": "Tailwind CSS is an open source, utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.",
-      "link": "https://tailwindcss.com/",
-      "icon": "https://mwop.net/images/tailwindcss.svg",
-      "tag": "Webdev"
-    },
-    {
-      "name": "Bootstrap",
-      "description": "Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.",
-      "link": "https://getbootstrap.com/",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png",
-      "tag": "Webdev"
-    },
-    {
-      "name": "WooCommerce",
-      "description": "WooCommerce is an open-source e-commerce plugin for WordPress.",
-      "link": "https://woo.com/",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/1200px-WooCommerce_logo.svg.png",
-      "tag": "Ecommerce"
-    },
-    {
-      "name": "Docker",
-      "description": "Docker is a platform designed to help developers build, share, and run container applications.",
-      "link": "https://www.docker.com/",
-      "icon": "https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png",
-      "tag": "Virtualization"
-    },
-    {
-      "name": "Vercel",
-      "description": "Hosts frontend of projects including this website",
-      "link": "https://vercel.com/",
-      "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png",
-      "tag": "Server"
-    },
-    {
-      "name": "GitHub",
-      "description": "Code hosting for all projects",
-      "link": "https://github.com/",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
-      "tag": "VersionControl"
-    },
-    {
-      "name": "Linux",
-      "description": "Linux® is an open source operating system (OS).",
-      "link": "https://www.linux.org/",
-      "icon": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
-      "tag": "OS"
-    },
-    {
-      "name": "Visual Studio Code",
-      "description": "Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control.",
-      "link": "https://code.visualstudio.com/",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png",
-      "tag": "CodeEditor"
-    },
-    {
-      "name": "Figma",
-      "description": "Design tool for all design artifacts and social media handles",
-      "link": "https://www.figma.com/",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
-      "tag": "GraphicDesign"
-    },
-    {
-      "name": "PSD",
-      "description": "Mostly used for PSD to HTML",
-      "link": "https://www.adobe.com/products/photoshop.html",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png",
-      "tag": "GraphicDesign"
-    }
-  ]
+  {
+    "name": "Notion",
+    "description": "Notion is a freemium productivity and note-taking web application.",
+    "link": "https://notion.so",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png",
+    "tag": "Productivity"
+  },
+  {
+    "name": "Trello",
+    "description": "Trello is a web-based, kanban-style collaboration tool that enables you to organize projects.",
+    "link": "https://trello.com",
+    "icon": "https://play-lh.googleusercontent.com/CiGs15N1e1tXrSnVLEY9jOnKi1oNzPQNRjqhR8fXE0pnu_bRyNmfc8xXr2VQUJTfJ9A",
+    "tag": "Productivity"
+  },
+  {
+    "name": "WordPress",
+    "description": "WordPress is a web content management system.",
+    "link": "https://wordpress.org",
+    "icon": "https://s.w.org/style/images/about/WordPress-logotype-wmark.png",
+    "tag": "CMS"
+  },
+  {
+    "name": "JavaScript",
+    "description": "JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language.",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png",
+    "tag": "Webdev"
+  },
+  {
+    "name": "jQuery",
+    "description": "jQuery: The Write Less, Do More, JavaScript Library.",
+    "link": "https://jquery.com/",
+    "icon": "https://avatars.githubusercontent.com/u/70142?s=200&v=4",
+    "tag": "Webdev"
+  },
+  {
+    "name": "PHP",
+    "description": "PHP is a general-purpose scripting language geared towards web development.",
+    "link": "https://www.php.net/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png",
+    "tag": "Webdev"
+  },
+  {
+    "name": "MySQL",
+    "description": "MySQL is an open-source relational database management system.",
+    "link": "https://www.mysql.com/",
+    "icon": "https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png",
+    "tag": "DBMS"
+  },
+  {
+    "name": "HTML",
+    "description": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.",
+    "link": "https://en.wikipedia.org/wiki/HTML",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png",
+    "tag": "Webdev"
+  },
+  {
+    "name": "CSS",
+    "description": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.",
+    "link": "https://en.wikipedia.org/wiki/CSS",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png",
+    "tag": "Webdev"
+  },
+  {
+    "name": "SCSS",
+    "description": "SASS/SCSS is the most mature, stable, and powerful professional grade CSS extension language in the world.",
+    "link": "https://sass-lang.com/",
+    "icon": "https://sass-lang.com/assets/img/logos/logo.svg"
+  },
+  {
+    "name": "Tailwind CSS",
+    "description": "Tailwind CSS is an open source, utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.",
+    "link": "https://tailwindcss.com/",
+    "icon": "https://mwop.net/images/tailwindcss.svg",
+    "tag": "Webdev"
+  },
+  {
+    "name": "Bootstrap",
+    "description": "Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.",
+    "link": "https://getbootstrap.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png",
+    "tag": "Webdev"
+  },
+  {
+    "name": "WooCommerce",
+    "description": "WooCommerce is an open-source e-commerce plugin for WordPress.",
+    "link": "https://woo.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/1200px-WooCommerce_logo.svg.png",
+    "tag": "Ecommerce"
+  },
+  {
+    "name": "Docker",
+    "description": "Docker is a platform designed to help developers build, share, and run container applications.",
+    "link": "https://www.docker.com/",
+    "icon": "https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png",
+    "tag": "Virtualization"
+  },
+  {
+    "name": "Vercel",
+    "description": "Hosts frontend of projects including this website",
+    "link": "https://vercel.com/",
+    "icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png",
+    "tag": "Server"
+  },
+  {
+    "name": "GitHub",
+    "description": "Code hosting for all projects",
+    "link": "https://github.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
+    "tag": "VersionControl"
+  },
+  {
+    "name": "Linux",
+    "description": "Linux® is an open source operating system (OS).",
+    "link": "https://www.linux.org/",
+    "icon": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+    "tag": "OS"
+  },
+  {
+    "name": "Visual Studio Code",
+    "description": "Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control.",
+    "link": "https://code.visualstudio.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png",
+    "tag": "CodeEditor"
+  },
+  {
+    "name": "Figma",
+    "description": "Design tool for all design artifacts and social media handles",
+    "link": "https://www.figma.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
+    "tag": "GraphicDesign"
+  },
+  {
+    "name": "PSD",
+    "description": "Mostly used for PSD to HTML",
+    "link": "https://www.adobe.com/products/photoshop.html",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png",
+    "tag": "GraphicDesign"
+  }
+]
