@@ -8,8 +8,10 @@ Welcome to the repository of my personal website, built with Hugo and using the 
 
 ## Technologies Used
 
-- **Hugo**: A fast and flexible static site generator.
-- **Digital Garden Theme by Ap Varun**: A theme designed for creating a digital garden with Hugo.
+- **Hugo**
+- **Markdown Files**
+- **Digital Garden Theme by Ap Varun**
+- **Vercel**
 
 ## Features
 
