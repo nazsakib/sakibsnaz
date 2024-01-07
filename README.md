@@ -16,9 +16,11 @@ Welcome to the repository of my personal website, built with Hugo and using the 
 ## Features
 
 - Clean and minimalistic design.
+- Day/Night mode
 - Responsive layout for various devices.
 - Real Fast
 - Easy to use, update and maintain
+- No cost
 
 ## License
 This project is licensed under the MIT License.
