@@ -47,10 +47,6 @@ name = '🌍 WordPress'
 url = 'https://profiles.wordpress.org/sakibsnaz/'
 weight = 100
 [[menu.main]]
-name = '⏳ WakaTime'
-url = 'https://wakatime.com/@sakibsnaz'
-weight = 105
-[[menu.main]]
 name = 'Blogs'
 params.header = true
 weight = 110
