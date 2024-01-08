@@ -1,5 +1,5 @@
 ---
-title: 2. Web Development - A Journey Through Time and Technology
+title: Web Development - A Journey Through Time and Technology
 date: 2021-12-18
 images: 
 - https://lh3.googleusercontent.com/drive-viewer/AK7aPaCx4tm3-qUiy_wfE3r7PS9wVDgjBSEPhrPAk5ChcEuFeGF8WxHLRjFECeGHK-pLvvts6Wht5vi4AOXigNJfvxIAWwx2bw=s1600

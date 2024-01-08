@@ -2,7 +2,9 @@
 $taxonomy_list = $taxonomy_list | append $taxonomy }} {{ end }} {{
 $taxonomy_is_used_list := apply $taxonomy_list "isset" .Params "." }} {{ if true
 | in $taxonomy_is_used_list }}
-<footer>
+<aside
+    class="px-6 py-20 will-change-transform transform transition-transform -translate-x-full absolute top-0 left-0 md:relative md:translate-x-0 h-full min-h-screen p-3 bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col gap-2.5 z-20 sidebar flex-shrink-0"
+>
     {{ range $taxonomy := $taxonomy_list }} {{ if isset $.Params $taxonomy }}
     <ul class="Tags">
         Tags: {{ range $.GetTerms $taxonomy }}
@@ -17,5 +19,5 @@ $taxonomy_is_used_list := apply $taxonomy_list "isset" .Params "." }} {{ if true
         {{ end }}
     </ul>
     {{ end }} {{ end }}
-</footer>
+</aside>
 {{ end }}
