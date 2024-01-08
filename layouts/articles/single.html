@@ -55,9 +55,12 @@
                 src="{{ . }}"
                 alt="{{ $title }}"
             />
-            {{ end -}} {{ end }} {{ .Content }} {{ partial "tags.html" .}}
+            {{ end -}} {{ end }} {{ .Content }}
         </article>
     </div>
+    <footer class="px-6 py-20 w-64 md:w-1/2 lg:w-full">
+        {{ partial "tags.html" .}}
+    </footer>
 </div>
 
 {{ end }}

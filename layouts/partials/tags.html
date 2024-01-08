@@ -1,10 +1,21 @@
-{{ $taxonomy := "tags" }} {{ with .Param $taxonomy }}
-<ul>
-    {{ range $index, $tag := . }} {{ with $.Site.GetPage (printf "/%s/%s"
-    $taxonomy $tag) -}}
-    <li>
-        <a href="{{ .Permalink }}">{{ $tag | urlize }}</a>
-    </li>
-    {{- end -}} {{- end -}}
-</ul>
+{{ $taxonomy_list := slice }} {{ range $taxonomy, $_ := site.Taxonomies }} {{
+$taxonomy_list = $taxonomy_list | append $taxonomy }} {{ end }} {{
+$taxonomy_is_used_list := apply $taxonomy_list "isset" .Params "." }} {{ if true
+| in $taxonomy_is_used_list }}
+<footer>
+    {{ range $taxonomy := $taxonomy_list }} {{ if isset $.Params $taxonomy }}
+    <ul class="Tags">
+        Tags: {{ range $.GetTerms $taxonomy }}
+        <li class="Tags-item u-background list-none p-0 m-0">
+            <a
+                class="Tags-link u-clickable text-zinc-400"
+                href="{{ .RelPermalink }}"
+                rel="tag"
+                >{{ .LinkTitle }}</a
+            >
+        </li>
+        {{ end }}
+    </ul>
+    {{ end }} {{ end }}
+</footer>
 {{ end }}
