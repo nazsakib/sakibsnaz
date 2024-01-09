@@ -2,8 +2,7 @@
 title: Web Development - A Journey Through Time and Technology
 date: 2021-12-18
 images: 
-- https://lh3.googleusercontent.com/drive-viewer/AK7aPaCx4tm3-qUiy_wfE3r7PS9wVDgjBSEPhrPAk5ChcEuFeGF8WxHLRjFECeGHK-pLvvts6Wht5vi4AOXigNJfvxIAWwx2bw=s1600
-tags: ['#WordPress', '#WebDevelopment']
+- https://lh3.googleusercontent.com/drive-viewer/AEYmBYSe8N9b_LfVrJ6Sobl6i9w7JKzVsLjwKSlOrHljpmLWqchWINT17IVkyxmm-thbHCDRiQikvSB6_RDJqNeYKUtqgo5SAg=s1600
 ---
 
 **Past:**
