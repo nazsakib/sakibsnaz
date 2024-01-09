@@ -29,6 +29,7 @@ I'm thrilled to present my latest solo project – a dynamic WordPress website t
 
 **Tech Stack**:
 
+
 🌐 *WordPress Foundation*
 
 🛠️ *Elementor Page Builder*
