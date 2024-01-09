@@ -35,5 +35,5 @@ draft: false
 
 **🚀 Let's collaborate and build something extraordinary together!** 
 
-→ [Go to Articles](/articles)
+→ [Check here for more details!](https://about.me/sakibsnaz)
 
