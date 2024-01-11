@@ -1,3 +1,6 @@
+import { injectSpeedInsights } from '@vercel/speed-insights';
+
+
 (() => {
   // <stdin>
   var sidebar = document.querySelector("aside.sidebar");
@@ -48,4 +51,6 @@
       localStorage.setItem(darkModeStateKey, true);
     }
   });
+ 
+  injectSpeedInsights();
 })();
