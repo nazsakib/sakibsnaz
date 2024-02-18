@@ -2,6 +2,6 @@
 title: Learning Management System with Payment Gateway
 date: 2023-10-15
 images:
-- https://lh3.googleusercontent.com/drive-viewer/AEYmBYTEVdEZbSbnG5ygpzsXrurvfg-SmqOgpacLfklJFIaPgxJIkw3wc303eNC6kLk7R6rGgtSoXo2afqmGvIQ3ctfNwRLatA=s1600
+- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708250263/Portfolio/shutterstock_download_npqq9p.jpg
 description: Learning management system, woocoomerce and payment gateway.
 ---
