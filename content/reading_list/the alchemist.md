@@ -3,7 +3,7 @@ title: The Alchemist
 description: Paulo Coelho
 date: 2015-05-12
 images: 
-- https://lh3.googleusercontent.com/drive-viewer/AEYmBYRO1uUzhzzWEG2OAtzLylgXAsy49bzXhOq8qnzjT8LsKrPAmAxYiNBbI3fu6poraOc7YeSbkMZR1EgSjSSpBRLnyeLq=s1600
+- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708250264/Portfolio/TheAlchemistCover-5456318ceb53461b9bb6081ed8b99252_lr4g7l.jpg
 
 ---
 
