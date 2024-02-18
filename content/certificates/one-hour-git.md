@@ -2,7 +2,7 @@
 title: One Hour GIT started with GitHub
 date: 2019-11-02
 images:
-- https://lh3.googleusercontent.com/drive-viewer/AK7aPaBiMUCQImta0zOFa4dAXqlE3qu1dIPBlt7R2LwxtimW4KVCilh7NEpWZoEHsjn99T0lgvElDL-TbukCRyMVjEWBcgOCLg=s1600
+- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708250557/Portfolio/UC-2ZGAVUVZ_fpqusy.jpg
 description: Udemy
 ---
 
