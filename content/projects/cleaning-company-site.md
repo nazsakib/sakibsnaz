@@ -3,7 +3,7 @@ title: Cleaning Comapny Website
 date: 2023-09-23
 description: Cleaning Company Website image from Behance.
 images:
-- https://lh3.googleusercontent.com/drive-viewer/AEYmBYQ9f2CHcIkBG_VG9b1TYrur-iajW--pw-e9APylYmcpjhzE9y_lLl9RbQkHa5hlSmqHqpxS7T1vZR28N2Tcl8hIkNfdxQ=s1600
+- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708250261/Portfolio/962077179678439.65106f3fe3a53_ysizrb.png
 ---
 
 ### 🚀 A cleaning company website with booking and payment gateway functionalities. 
