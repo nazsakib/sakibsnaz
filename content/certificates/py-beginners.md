@@ -2,7 +2,7 @@
 title: Python for Beginners
 date: 2023-12-09
 images:
-- https://lh3.googleusercontent.com/drive-viewer/AK7aPaAyF21pRAUh5hUq0ynaWgj7jwSFQec5fHR38xQeHR5X88p2vbbtpC-V5uKmFcMABHB4UEwtUDcuEhHD3lNwt3YL699O=s1600
+- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708250748/Portfolio/UC-SPY6BCHY_hmc6tx.jpg
 description: Udemy
 ---
 
