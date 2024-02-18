@@ -2,7 +2,7 @@
 title: WordPress - A Versatile Platform for Seamless Web Development
 date: 2021-12-18
 images: 
-- https://lh3.googleusercontent.com/drive-viewer/AEYmBYSe8N9b_LfVrJ6Sobl6i9w7JKzVsLjwKSlOrHljpmLWqchWINT17IVkyxmm-thbHCDRiQikvSB6_RDJqNeYKUtqgo5SAg=s1600
+- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708250265/Portfolio/%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE_%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%AA_fh8fnn.png
 
 ---
 
