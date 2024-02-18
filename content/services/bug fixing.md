@@ -2,7 +2,7 @@
 title: Bug and Error Fixing
 description: I'm here to help your website run smoothly by fixing any issues or errors. Let's make sure everything works perfectly!
 images: 
-- https://lh3.googleusercontent.com/drive-viewer/AEYmBYTQFNzIyDjKdXWmCygeLwlokOD3SNul7umsbjvYwNswgT3pQG05FVkTe0VKT3xWIM8czEFpeMNHktAcRwmXxjooHgOW3Q=s1600
+- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708250264/Portfolio/undraw_bug_fixing_oc7a_tbnhb4.png
 ---
 
 # Your WordPress Website Solution Expert
