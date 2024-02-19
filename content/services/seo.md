@@ -2,7 +2,7 @@
 title: Search Engine Optimization
 description: "I specialize in maintaining and optimizing WordPress websites, ensuring they stay secure, up-to-date, and perform at their best. Your hassle-free WordPress experience starts here."
 images: 
-- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708250263/Portfolio/undraw_Search_re_x5gq_wji3mt.png
+- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708335027/undraw_Search_re_x5gq_wji3mt_oldgq3.webp
 ---
 # Elevate Your Online Presence with SEO Magic ✨
 
