@@ -3,7 +3,7 @@ title: An Exclusive Webinar on WordPress Plugin Development
 date: 2023-12-27
 description: উইডেভস একাডেমী আয়োজিত ওয়ার্ডপ্রেস প্লাগিন ডেভেলপমেন্ট এর জন্য বেষ্ট কোডিং প্র্যাকটিস, ক্যারিয়ার অপরচুনিটি এবং প্রশ্নোত্তর পর্ব নিয়ে ওয়েবিনার।
 images: 
-- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708250260/Portfolio/412771002_207538109090465_6359874661567647506_n_grhbgx.jpg
+- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708334881/412771002_207538109090465_6359874661567647506_n_grhbgx_j2zpqj.webp
 
 ---
 
