@@ -2,7 +2,7 @@
 title: Site Maintenance
 description: Helping your website get noticed! I make sure it shows up when people search online by improving how it appears in search results. Let's make your site more popular!
 images: 
-- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708250263/Portfolio/undraw_Maintenance_re_59vn_efi0cu.png
+- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708335026/undraw-maintenance-re-59vn-efi0cu-65d31e7a75c12_lhziuv.webp
 ---
 
 # Site Maintenance Services
