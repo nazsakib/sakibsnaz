@@ -2,7 +2,7 @@
 title: JavaScript Fundamentals
 date: 2019-11-02
 images:
-- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708250789/Portfolio/UC-ZIF5HNJK_bgjuxr.jpg
+- https://res.cloudinary.com/dr1nwz8am/image/upload/v1708335028/UC-ZIF5HNJK_bgjuxr_vxdoul.webp
 description: Udemy
 ---
 
