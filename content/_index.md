@@ -10,12 +10,12 @@ draft: false
 
 ![sakib md nazmush](https://res.cloudinary.com/dr1nwz8am/image/upload/v1708330426/rsz_3sakib_image_ymrvv4.webp)
 
-🚀 I’m a web developer who loves turning ideas into great websites. Skilled in **HTML**, **CSS**, and **JavaScript**, I’m your person for WordPress, and I’m adept at using popular page builders like **Elementor** and **Divi** to create visually stunning layouts.💻 When it comes to eCommerce, I’ve got you covered with **WooCommerce** expertise, ensuring smooth online transactions.
+🚀 I’m a web developer who loves turning ideas into great websites. Skilled in TML, CSS, and JavaScript, I’m your person for WordPress, and I’m adept at using popular page builders like Elementor and Divi to create visually stunning layouts.💻 When it comes to eCommerce, I’ve got you covered with WooCommerce expertise, ensuring smooth online transactions.
 
 
-🔧 On the backend, I work with **PHP**, **MySQL**, and I’m not afraid to dive into making **custom plugins** and **themes**. This means I can tailor your site to suit your specific needs.🛠️ Operating in **Linux**, my preferred OS, I keep things streamlined using **VS Code** as my code editor.
+🔧 On the backend, I work with PHP, MySQL, and I’m not afraid to dive into making custom plugins and themes. This means I can tailor your site to suit your specific needs.🛠️ Operating in Linux, my preferred OS, I keep things streamlined using VS Code as my code editor.
 
-🌐 Beyond building websites, I’m actively contributing to the **WordPress community**. Whether it’s improving **core functionalities**, working on **design**, helping with translations in **Polyglots**, or **documenting** the ins and outs, I’m committed to making WordPress better for everyone. Let’s create something amazing together!🌟
+🌐 Beyond building websites, I’m actively contributing to the WordPress community. Whether it’s improving core functionalities, working on design, helping with translations in Polyglots, or documenting the ins and outs, I’m committed to making WordPress better for everyone. Let’s create something amazing together!🌟
 
 <hr />
 
