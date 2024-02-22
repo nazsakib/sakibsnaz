@@ -7,4 +7,3 @@ images:
 description: Great Learning
 ---
 
-# UI/UX for Beginners
