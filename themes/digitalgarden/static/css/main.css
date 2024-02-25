@@ -1,4 +1,9 @@
 /*! tailwindcss v3.3.6 | MIT License | https://tailwindcss.com*/
+@font-face {
+  font-family: 'HindSiliguriMedium';
+  src: url('/fonts/HindSiliguri-Medium.woff') format('woff');
+  font-style: normal;
+}
 *,
 :after,
 :before {
@@ -24,6 +29,7 @@ html {
 body {
     margin: 0;
     line-height: inherit;
+    font-family: 'HindSiliguriMedium', sans-serif;
 }
 hr {
     height: 0;
