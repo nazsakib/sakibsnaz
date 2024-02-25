@@ -14,23 +14,9 @@ On the backend, I work with PHP, MySQL, and I’m not afraid to dive into making
 
 Beyond building websites, I’m actively contributing to the WordPress community. Whether it’s improving core functionalities, working on design, helping with translations in Polyglots, or documenting the ins and outs, I’m committed to making WordPress better for everyone. Let’s create something amazing together!
 
-<hr />
-
-## 💡 My objective is to partner with clients and:
-
-- Achieving their business goals
-- Develop websites that serve
-  - As powerful tools for brand representation
-  - As customer engagement
-- Focused on enhancing the online presence
-- Contribute to the client's business growth
-- Creating
-  - User-friendly
-  - Visually appealing platforms
-
 ---
 
 **🚀 Let's collaborate and build something extraordinary together!** 
 
-→ [Check here for more details!](https://about.me/sakibsnaz)
+→ [Check here for more details!](https://www.linkedin.com/in/sakibsnaz/)
 
