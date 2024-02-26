@@ -88,7 +88,7 @@ Create a CSS file (e.g., style.css or main.css) and include Tailwind CSS by addi
 **Step 10:**
 Run your project with:
 
-```npm start
+```npm start```
 
 Finally, link your CSS file to your HTML file.
 
