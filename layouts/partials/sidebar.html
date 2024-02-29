@@ -52,6 +52,8 @@
         <span>{{- partial "icon/linkedinIcon.html" . -}}</span>
         {{ else if eq .Name "Gmail" }}
         <span>{{- partial "icon/emailIcon.html" . -}}</span>
+        {{ else if eq .Name "Youtube" }}
+        <span>{{- partial "icon/youtubeIcon.html" . -}}</span>
         {{ else if eq .Name "Codeberg" }}
         <!-- <span>{{- partial "icon/codebergIcon.html" . -}}</span> -->
         {{ else if eq .Name "GitLab" }}
