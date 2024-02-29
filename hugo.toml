@@ -93,6 +93,10 @@ weight = 4
 name = 'Youtube'
 url = 'https://www.youtube.com/@sakibsnaz'
 weight = 5
+[[menu.social]]
+name = 'Facebook'
+url = 'https://www.facebook.com/sakibsnaz'
+weight = 6
 
 # syntax highlight settings
 [markup]
