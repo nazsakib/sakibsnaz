@@ -19,20 +19,6 @@
         content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"
     />
 
-    <!-- google analytics -->
-    <script
-        async
-        src="https://www.googletagmanager.com/gtag/js?id=G-BQ0BBXDZ75"
-    ></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag("js", new Date());
-
-        gtag("config", "G-BQ0BBXDZ75");
-    </script>
 
     {{- if .Keywords }} <meta name="keywords" content="{{ delimit .Keywords ","
     }}" /> {{ end -}} {{- if .Params.Author }}
