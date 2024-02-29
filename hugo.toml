@@ -89,6 +89,10 @@ weight = 3
 name = 'Gmail'
 url = 'mailto:sakibsnaz@gmail.com'
 weight = 4
+[[menu.social]]
+name = 'Youtube'
+url = 'https://www.youtube.com/@sakibsnaz'
+weight = 5
 
 # syntax highlight settings
 [markup]
