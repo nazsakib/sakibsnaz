@@ -13,8 +13,8 @@ name = 'Content'
 params.header = true
 weight = 20
 [[menu.main]]
-name = '📜 Articles'
-url = '/articles'
+name = '📜 Case Studies'
+url = '/case_studies'
 weight = 30
 [[menu.main]]
 name = '💻 Experience'
