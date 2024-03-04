@@ -7,6 +7,10 @@ images:
 
 ---
 
+## Plot
+
+A dying mother writes to her children Jeanne and Simon requesting them to fulfil her last wishes. Following her instructions, they discover a world full of hatred, differences and love.
+
 ## Some dialogues from this masterpiece:
 
 - One plus one, does it make one?
