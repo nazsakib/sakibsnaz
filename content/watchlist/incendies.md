@@ -7,7 +7,7 @@ images:
 
 ---
 
-**Some dialogues from this masterpiece: **
+## Some dialogues from this masterpiece:
 
 - One plus one, does it make one?
 
