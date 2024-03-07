@@ -18,11 +18,6 @@ Beyond building websites, I’m actively contributing to the WordPress community
 
 **🚀 Let's collaborate and build something extraordinary together!** 
 
-**Sakib MD Nazmush**
-
-**01701082240**
-
-**sakibnshakhawat@gmail.com**
 
 → [Check here for more details!](https://www.linkedin.com/in/sakibsnaz/)
 
