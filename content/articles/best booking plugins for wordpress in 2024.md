@@ -7,13 +7,12 @@ images:
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Booking Plugins Overview](#booking-plugins-overview)
-    - [BookingPress](#1-bookingpress)
-    - [WooCommerce Bookings](#2-woocommerce-bookings)
-    - [Bookly Pro](#3-bookly-pro)
-    - [Amelia](#4-amelia)
-    - [Simply Schedule Appointments](#5-simply-schedule-appointments)
-3. [Conclusion](#conclusion)
+    - [BookingPress](#bookingpress)
+    - [WooCommerce Bookings](#woocommerce-bookings)
+    - [Bookly Pro](#bookly-pro)
+    - [Amelia](#amelia)
+    - [Simply Schedule Appointments](#simply-schedule-appointments)
+2. [Conclusion](#conclusion)
 
 ---
 
@@ -35,17 +34,17 @@ BookingPress is a versatile booking plugin seamlessly integrated with WordPress 
 
 Advantages:
 
-Seamless integration with WordPress.
-Versatile features suitable for various businesses.
-User-friendly interface for easy navigation and setup.
-Reliable customer support and regular updates.
-Secure payment processing within the WordPress environment.
+- Seamless integration with WordPress.
+- Versatile features suitable for various businesses.
+- User-friendly interface for easy navigation and setup.
+- Reliable customer support and regular updates.
+- Secure payment processing within the WordPress environment.
 
 Disadvantages:
 
-Limited advanced customization options.
-Some features may require additional add-ons.
-Support and updates may vary depending on the plan chosen.
+- Limited advanced customization options.
+- Some features may require additional add-ons.
+- Support and updates may vary depending on the plan chosen.
 
 
 **2. WooCommerce Bookings**
@@ -56,14 +55,14 @@ WooCommerce Bookings seamlessly integrates with WooCommerce, offering businesses
 
 Advantages:
 
-Seamless integration with WooCommerce.
-Flexible booking options.
-Extensive customization features.
-Efficient resource and staff management.
-Tailored booking experience to meet unique business needs.
+- Seamless integration with WooCommerce.
+- Flexible booking options.
+- Extensive customization features.
+- Efficient resource and staff management.
+- Tailored booking experience to meet unique business needs.
 
 Disadvantages:
 
-Steep learning curve for beginners.
-Additional costs for advanced features.
-Complex resource management.
+- Steep learning curve for beginners.
+- Additional costs for advanced features.
+- Complex resource management.
