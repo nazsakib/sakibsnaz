@@ -7,11 +7,11 @@ images:
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [BookingPress](#bookingpress)
-- [WooCommerce Bookings](#woocommerce-bookings)
-- [Bookly Pro](#bookly-pro)
-- [Amelia](#amelia)
-- [Simply Schedule Appointments](#simply-schedule-appointments)
+- [BookingPress](#1-bookingpress)
+- [WooCommerce Bookings](#2-woocommerce-bookings)
+- [Bookly Pro](#3-bookly-pro)
+- [Amelia](#4-amelia)
+- [Simply Schedule Appointments](#5-simply-schedule-appointments)
 - [Conclusion](#conclusion)
 
 ---
