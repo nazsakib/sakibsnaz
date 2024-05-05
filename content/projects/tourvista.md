@@ -38,6 +38,7 @@ TourVista, a growing travel startup, came to us with a dream: to simplify how pe
 ### Conclusion
 By focusing on simplicity and user experience, we've transformed TourVista into a go-to destination for travel planning. With a faster, more user-friendly site and improved search visibility, TourVista is ready to make waves in the travel industry.
 
+*(Note: Client credentials were removed and replaced with the consultant's credentials for privacy.)*
 ---
 
 🌟📲 Feel free to reach out at collabwithsakib@gmail.com, and let's create something exceptional together! 
