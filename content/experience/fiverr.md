@@ -1,5 +1,5 @@
 ---
-title: Web Application Developer
+title: WordPress Developer
 date: 2023-12-21
 images:
 - https://res.cloudinary.com/dr1nwz8am/image/upload/v1710219841/sakibsnaz_portfolio_experence_mgycdt.webp
