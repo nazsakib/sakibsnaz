@@ -8,7 +8,7 @@ images:
 
 ### 🚀 TourVista: Where adventure begins. Explore, book, and make memories effortlessly.
 
-See here: [Websaite](https://www.sakibsnaz.com/tourvista)
+See here: [Website](https://www.sakibsnaz.com/tourvista)
 
 ---
 
