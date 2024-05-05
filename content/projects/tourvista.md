@@ -2,8 +2,8 @@
 title: TourVista
 date: 2023-09-23
 description: A travel and tour, trip booking website named TourVista
-images: https://res.cloudinary.com/dr1nwz8am/image/upload/v1714917329/Home_TourVista_sakibsnaz_1_kr82sy.webp
-- 
+images: 
+- https://res.cloudinary.com/dr1nwz8am/image/upload/v1714917329/Home_TourVista_sakibsnaz_1_kr82sy.webp
 ---
 
 ### 🚀 A cleaning company website with booking and payment gateway functionalities. 
