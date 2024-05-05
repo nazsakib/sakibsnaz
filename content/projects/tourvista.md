@@ -40,4 +40,4 @@ By focusing on simplicity and user experience, we've transformed TourVista into 
 
 ---
 
-🌟📲 Feel free to reach out at collabwithsakib@gmail.com, and let's embark on creating something exceptional together! 
+🌟📲 Feel free to reach out at collabwithsakib@gmail.com, and let's create something exceptional together! 
