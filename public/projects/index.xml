@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on sakibNazmush</title>
-    <link>e.com/projects/</link>
-    <description>Recent content in Projects on sakibNazmush</description>
+    <title>Projects on sakibsNaz/&gt;</title>
+    <link>https://sakibsnaz.vercel.app/projects/</link>
+    <description>Recent content in Projects on sakibsNaz/&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Dec 2023 09:56:53 +0600</lastBuildDate>
-    <atom:link href="e.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sakibsnaz.vercel.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TourVista</title>
+      <link>https://sakibsnaz.vercel.app/projects/tourvista/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://sakibsnaz.vercel.app/projects/tourvista/</guid>
+      <description>🚀 TourVista: Where adventure begins. Explore, book, and make memories effortlessly. See here: Website&#xA;Case Study: TourVista - A Travel Booking Platform Makeover Client Background TourVista, a growing travel startup, came to us with a dream: to simplify how people book and enjoy travel adventures. They wanted a website where anyone could effortlessly plan trips, book accommodations, and find exciting activities.&#xA;Challenges Mobile-Friendly Design: Creating a responsive website that delivers a seamless experience across all devices.</description>
+    </item>
+    <item>
+      <title>Learning Management System with Payment Gateway</title>
+      <link>https://sakibsnaz.vercel.app/projects/lms/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://sakibsnaz.vercel.app/projects/lms/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cleaning Comapny Website</title>
-      <link>e.com/projects/project1/</link>
+      <link>https://sakibsnaz.vercel.app/projects/cleaning-company-site/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>e.com/projects/project1/</guid>
+      <guid>https://sakibsnaz.vercel.app/projects/cleaning-company-site/</guid>
       <description>🚀 A cleaning company website with booking and payment gateway functionalities. See here: Behance&#xA;Greetings!&#xA;I&amp;rsquo;m thrilled to present my latest solo project – a dynamic WordPress website that not only showcases my passion for web development but also seamlessly integrates advanced booking functionalities and secure payment gateways. Using HTML, CSS, JavaScript, and PHP, I&amp;rsquo;ve created a versatile platform that goes beyond the ordinary.&#xA;Key Accomplishments:&#xA;🎨 Elementor Expertise: I&amp;rsquo;ve harnessed the power of Elementor, a cornerstone in my toolkit, to design visually stunning layouts that captivate visitors.</description>
     </item>
   </channel>

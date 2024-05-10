@@ -2,70 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>e.com/certificates/certificate2/</loc>
+    <loc>https://sakibsnaz.vercel.app/articles/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/articles/migrate-hugo-site-from-vercel-to-hosting/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/projects/tourvista/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/articles/best-booking-plugins-for-wordpress-in-2024/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/articles/5-best-lms-plugin-for-wordpress/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/watchlist/incendies/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/watchlist/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/certificates/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/certificates/crash-course-on-grid-system-and-responsive-design/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/certificates/ui_ux_for_beginners/</loc>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/watchlist/webinar-on-wp-plugin-development/</loc>
+    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/watchlist/jack-reacher/</loc>
+    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/experience/</loc>
+    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/experience/fiverr/</loc>
+    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/experience/softtechit-intern/</loc>
+    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/certificates/advanced-wordpress-development/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/certificates/</loc>
+    <loc>https://sakibsnaz.vercel.app/certificates/cs50-sql/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/certificates/certificate1/</loc>
-    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>e.com/certificates/certificate4/</loc>
-    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>e.com/</loc>
+    <loc>https://sakibsnaz.vercel.app/</loc>
     <lastmod>2023-12-08T09:56:53+06:00</lastmod>
   </url><url>
-    <loc>e.com/projects/</loc>
+    <loc>https://sakibsnaz.vercel.app/projects/</loc>
     <lastmod>2023-12-08T09:56:53+06:00</lastmod>
   </url><url>
-    <loc>e.com/watchlist/</loc>
+    <loc>https://sakibsnaz.vercel.app/watchlist/top-gun-maverick/</loc>
     <lastmod>2023-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/watchlist/movie2/</loc>
-    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>e.com/watchlist/movie3/</loc>
+    <loc>https://sakibsnaz.vercel.app/watchlist/mission-impossible-dr-1/</loc>
     <lastmod>2023-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/watchlist/movie1/</loc>
+    <loc>https://sakibsnaz.vercel.app/watchlist/expend4bles/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/reading_list/</loc>
+    <loc>https://sakibsnaz.vercel.app/projects/lms/</loc>
+    <lastmod>2023-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/reading_list/</loc>
     <lastmod>2023-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/reading_list/book3/</loc>
+    <loc>https://sakibsnaz.vercel.app/reading_list/the-48-laws-of-power/</loc>
     <lastmod>2023-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/projects/project1/</loc>
+    <loc>https://sakibsnaz.vercel.app/projects/cleaning-company-site/</loc>
     <lastmod>2023-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/articles/art1/</loc>
+    <loc>https://sakibsnaz.vercel.app/reading_list/parthib-by-shirshendu-mukhopaddhay/</loc>
+    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/reading_list/grihodaho/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/articles/art2/</loc>
+    <loc>https://sakibsnaz.vercel.app/reading_list/the-twentieth-wife/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/articles/</loc>
-    <lastmod>2021-12-18T00:00:00+00:00</lastmod>
+    <loc>https://sakibsnaz.vercel.app/reading_list/originals/</loc>
+    <lastmod>2018-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/reading_list/book1/</loc>
-    <lastmod>2021-12-18T00:00:00+00:00</lastmod>
+    <loc>https://sakibsnaz.vercel.app/watchlist/the-dark-knight-trilogy/</loc>
+    <lastmod>2016-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/reading_list/book2/</loc>
-    <lastmod>2021-12-18T00:00:00+00:00</lastmod>
+    <loc>https://sakibsnaz.vercel.app/watchlist/the-shawshank-redemption/</loc>
+    <lastmod>2016-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/certificates/certificate5/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+    <loc>https://sakibsnaz.vercel.app/reading_list/opekkha/</loc>
+    <lastmod>2016-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/certificates/certificate3/</loc>
-    <lastmod>2019-11-02T00:00:00+00:00</lastmod>
+    <loc>https://sakibsnaz.vercel.app/reading_list/the-alchemist/</loc>
+    <lastmod>2015-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>e.com/categories/</loc>
+    <loc>https://sakibsnaz.vercel.app/services/bug-fixing/</loc>
   </url><url>
-    <loc>e.com/stack/</loc>
+    <loc>https://sakibsnaz.vercel.app/services/full-website/</loc>
   </url><url>
-    <loc>e.com/tags/</loc>
+    <loc>https://sakibsnaz.vercel.app/categories/</loc>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/services/seo/</loc>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/services/</loc>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/services/maintenance/</loc>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/stack/</loc>
+  </url><url>
+    <loc>https://sakibsnaz.vercel.app/tags/</loc>
   </url>
 </urlset>

@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on sakibNazmush</title>
-    <link>e.com/articles/</link>
-    <description>Recent content in Articles on sakibNazmush</description>
+    <title>Articles on sakibsNaz/&gt;</title>
+    <link>https://sakibsnaz.vercel.app/articles/</link>
+    <description>Recent content in Articles on sakibsNaz/&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="e.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sakibsnaz.vercel.app/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1. WordPress - A Versatile Platform for Seamless Web Development</title>
-      <link>e.com/articles/art1/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>e.com/articles/art1/</guid>
-      <description>Introduction WordPress, a powerful and versatile content management system (CMS), has become the go-to choice for website development due to its ease of use, extensive features, and robust community support. With over 40% of the web powered by WordPress, it has evolved from a simple blogging tool to a full-fledged CMS used by individuals, businesses, and enterprises worldwide.&#xA;Installation Installation of WordPress is a straightforward process, making it accessible to users of all levels of technical expertise.</description>
+      <title>Migrate Hugo site from Vercel to another Hosting/Domain | Web Dev</title>
+      <link>https://sakibsnaz.vercel.app/articles/migrate-hugo-site-from-vercel-to-hosting/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://sakibsnaz.vercel.app/articles/migrate-hugo-site-from-vercel-to-hosting/</guid>
+      <description>Check out my recent YouTube video for a quick guide on smoothly shifting your Hugo site from Vercel to hosting. This move can save costs and give you more control over your website. First, make sure your site&amp;rsquo;s on GitHub, then pick a hosting service that fits your needs. Set up your hosting, move your files over, and solve any problems that pop up. Test everything out to make sure your site works well in its new home.</description>
     </item>
     <item>
-      <title>2. Web Development - A Journey Through Time and Technology</title>
-      <link>e.com/articles/art2/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>e.com/articles/art2/</guid>
-      <description>Past: The inception of web development dates back to the early 1990s when the World Wide Web became publicly accessible. Initially, websites were simple, static pages coded in HTML. The rudimentary nature of these early websites marked the humble beginnings of web development. As the internet gained popularity, the demand for dynamic and interactive websites led to the introduction of technologies like CSS for styling and JavaScript for enhancing user experience.</description>
+      <title>5 Best Booking Plugins for WordPress in 2024</title>
+      <link>https://sakibsnaz.vercel.app/articles/best-booking-plugins-for-wordpress-in-2024/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sakibsnaz.vercel.app/articles/best-booking-plugins-for-wordpress-in-2024/</guid>
+      <description>Table of Contents Introduction BookingPress WooCommerce Bookings Bookly Pro Amelia Simply Schedule Appointments Conclusion Introduction Welcome to the Comprehensive Guide to Booking Plugins for WordPress! In today&amp;rsquo;s digital age, managing appointments and reservations efficiently is crucial for businesses of all sizes. WordPress offers a plethora of booking plugins, each with its unique features and functionalities.&#xA;This guide aims to provide you with insights into the top booking plugins available for WordPress.</description>
+    </item>
+    <item>
+      <title>Exploring the Top 5 WordPress LMS Plugins for Enhanced Online Learning</title>
+      <link>https://sakibsnaz.vercel.app/articles/5-best-lms-plugin-for-wordpress/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sakibsnaz.vercel.app/articles/5-best-lms-plugin-for-wordpress/</guid>
+      <description>Diving into the world of online education, we find ourselves confronted with a myriad of options to amplify our teaching prowess. Among these tools, Learning Management Systems (LMS) reign supreme, acting as the cornerstone of virtual classrooms. In the bustling ecosystem of WordPress, where innovation meets accessibility, a plethora of LMS plugins await exploration, promising to revolutionize the digital learning landscape. Join us as we embark on a journey to uncover the top five contenders that stand tall in the realm of WordPress LMS plugins.</description>
     </item>
   </channel>
 </rss>
