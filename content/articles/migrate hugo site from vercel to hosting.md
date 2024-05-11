@@ -9,7 +9,7 @@ Check out my recent YouTube video for a quick guide on smoothly shifting your Hu
 
 **Watch the video:**
 
-[Watch the video](https://youtu.be/Ih44j5y91i4)
+[](https://youtu.be/Ih44j5y91i4)
 
 Feel free to give feedback about the video in comment section.
 Thank you!
