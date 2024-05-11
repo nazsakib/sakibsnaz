@@ -21,6 +21,20 @@
     "tag": "CMS"
   },
   {
+    "name": "Elementor",
+    "description": "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing.",
+    "link": "https://elementor.com/",
+    "icon": "https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.svg",
+    "tag": "PgaeBuilder"
+  },
+  {
+    "name": "WooCommerce",
+    "description": "WooCommerce is an open-source e-commerce plugin for WordPress.",
+    "link": "https://woo.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/1200px-WooCommerce_logo.svg.png",
+    "tag": "Ecommerce"
+  },
+  {
     "name": "JavaScript",
     "description": "JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language.",
     "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
@@ -81,13 +95,6 @@
     "link": "https://getbootstrap.com/",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png",
     "tag": "Webdev"
-  },
-  {
-    "name": "WooCommerce",
-    "description": "WooCommerce is an open-source e-commerce plugin for WordPress.",
-    "link": "https://woo.com/",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/WooCommerce_logo.svg/1200px-WooCommerce_logo.svg.png",
-    "tag": "Ecommerce"
   },
   {
     "name": "Docker",
