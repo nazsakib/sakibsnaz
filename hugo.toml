@@ -93,10 +93,6 @@ weight = 4
 name = 'Youtube'
 url = 'https://www.youtube.com/@sakibsnaz'
 weight = 5
-[[menu.social]]
-name = 'Linktree'
-url = 'https://linktr.ee/sakibsnaz'
-weight = 6
 
 # syntax highlight settings
 [markup]
