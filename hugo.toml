@@ -94,8 +94,8 @@ name = 'Youtube'
 url = 'https://www.youtube.com/@sakibsnaz'
 weight = 5
 [[menu.social]]
-name = 'Facebook'
-url = 'https://www.facebook.com/sakibsnaz'
+name = 'Linktree'
+url = 'https://linktr.ee/sakibsnaz'
 weight = 6
 
 # syntax highlight settings
