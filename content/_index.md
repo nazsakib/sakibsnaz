@@ -4,7 +4,7 @@ date: 2023-12-08T09:56:53+06:00
 draft: false
 ---
 
-# Another WordPress folk here 👋
+# Another WordPress folk 👋
 
 Hello, Sakib here. Currently, I'm learning and focusing on Plugin Development. In addition to that, on Fiverr, I provide services such as Learning Management System setups, Tour/Travel Booking site development, Landing page creation, and site cloning or redesigning bug and error fixing and site maintenance.
 
