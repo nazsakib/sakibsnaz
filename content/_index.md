@@ -54,7 +54,7 @@ Forms
 ```
   - WP Forms
   - Fluent Form
-  - Contact Form
+  - Contact Form 7
   - Metform
 
 ```
