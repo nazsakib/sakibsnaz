@@ -50,6 +50,14 @@ Payment:
   - WooCommerce
 
 ```
+Forms
+```
+  - WP Forms
+  - Fluent Form
+  - Contact Form
+  - Metform
+
+```
 Themes:
 ```
   - Hello Elementor
