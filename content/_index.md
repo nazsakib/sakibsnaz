@@ -24,20 +24,28 @@ Love to work with:
   - Tourfic
   - WP Travel Engine
 
-- **Ecommerce:**
+```
+Ecommerce:
+```
   - WooCommerce
   - Cartflow
 
-- **Security:**
+```
+Security:
+```
   - Hide my WP Ghost Lite
   - Jetpack
 
-- **Payment:**
+```
+Payment:
+```
   - WooCommerce Stripe Payment Gateway
   - Payment Plugins for Paypal WooCommerce
   - WooCommerce
 
-- **Themes:**
+```
+Themes:
+```
   - Hello Elementor
   - Astra
   - Tutor Starter
@@ -52,7 +60,6 @@ Love to work with:
 
 ```
  - sayhello@sakibsnaz.com
- 
 ```
 
 ---
