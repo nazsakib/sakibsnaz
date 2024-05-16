@@ -6,7 +6,7 @@ draft: false
 
 # Another WordPress folk 👋
 
-Hello, Sakib here. Currently, I'm learning and focusing on Plugin Development. In addition to that, on Fiverr, I provide services such as Learning Management System setups, Tour/Travel Booking site development, Landing page creation, and site cloning or redesigning bug and error fixing and site maintenance.
+Hello, Sakib here. Currently, I'm learning and focusing on Plugin Development. In addition to that, on Fiverr, I provide services such as Learning Management System setups, Tour/Travel Booking site development, Landing page creation, site cloning or redesigning, bug and error fixing and site maintenance.
 
 Love to work with:
 
