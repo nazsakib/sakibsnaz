@@ -8,7 +8,6 @@ draft: false
 
 **Another WordPress Folk**
 
-```
 Love to work with:
 
 - **Page Builder:**
@@ -43,8 +42,7 @@ Love to work with:
   - Astra
   - Tutor Starter
   - Travel Monster
-  
-```
+
 
 ## Latest Projects
 
