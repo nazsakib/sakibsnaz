@@ -68,9 +68,7 @@ Themes:
 
 ## Latest Projects
 
-```
-[Projects](https://www.sakibsnaz.com/projects)
-```
+[Click here to view my latest projects](https://www.sakibsnaz.com/projects)
 
 ## Contact
 
