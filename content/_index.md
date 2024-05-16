@@ -6,23 +6,32 @@ draft: false
 
 # Hello, Sakib here 👋
 
-**Welcome to my profile!**
+**Another WordPress Folk**
 
-I’m a web developer who loves turning ideas into great websites. Skilled in HTML, CSS, and JavaScript, I’m your person for WordPress, and I’m adept at using popular page builders like Elementor and Divi to create visually stunning layouts. When it comes to eCommerce, I’ve got you covered with WooCommerce expertise, ensuring smooth online transactions.
+Love to work with
+ - Page Builder:
+  - Elementor
+ - Learning Management System:
+  - Tutor LMS, Learnpress, Learndash, WPLMS, Eduma
+ - Tour/travel Booking:
+  - Tourfic, WP Travel Engine
+ - Ecommerce:
+  - WooCommerce, Cartflow
+ - Security:
+  - Hide my WP Ghost Lite, Jetpack
+ - Payment:
+  - WooCommerce Stipe Payment Gateway, Payment Plugins for Paypal WooCommerce, WooCommerce
+ - Themes:
+  - Hello Elementor, Astra, Tutor Starter, Travel Monster etc
 
-On the backend, I work with PHP, MySQL, and I’m not afraid to dive into making custom plugins and themes. This means I can tailor your site to suit your specific needs. Operating in Linux, my preferred OS, I keep things streamlined using VS Code as my code editor.
+## Latest Projects
 
-Beyond building websites, I’m actively contributing to the WordPress community. Whether it’s improving core functionalities, working on design, helping with translations in Polyglots, or documenting the ins and outs, I’m committed to making WordPress better for everyone. Let’s create something amazing together!
+[Projects](https://www.sakibsnaz.com/projects)
 
-If you need any further assistance kindly reach out at sakibnshakhawat@gmail.com or sakibsnaz@gmail.com.
+## Contact
 
-Kind Regards!
-
-Sakib MD Nazmush
-
+ - sayhello@sakibsnaz.com
 ---
-
-**🚀 Let's collaborate and build something extraordinary together!** 
 
 
 → [Check here for more details!](https://www.linkedin.com/in/sakibsnaz/)
