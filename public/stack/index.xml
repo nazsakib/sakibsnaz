@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stack on sakibsNaz/&gt;</title>
-    <link>https://sakibsnaz.vercel.app/stack/</link>
+    <link>http://localhost:1313/stack/</link>
     <description>Recent content in Stack on sakibsNaz/&gt;</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://sakibsnaz.vercel.app/stack/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/stack/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

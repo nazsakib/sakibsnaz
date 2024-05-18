@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Certifications on sakibsNaz/&gt;</title>
-    <link>https://sakibsnaz.vercel.app/certificates/</link>
+    <link>http://localhost:1313/certificates/</link>
     <description>Recent content in Certifications on sakibsNaz/&gt;</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sakibsnaz.vercel.app/certificates/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/certificates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crash Course on Grid system and Responsive design</title>
-      <link>https://sakibsnaz.vercel.app/certificates/crash-course-on-grid-system-and-responsive-design/</link>
+      <link>http://localhost:1313/certificates/crash-course-on-grid-system-and-responsive-design/</link>
       <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.vercel.app/certificates/crash-course-on-grid-system-and-responsive-design/</guid>
+      <guid>http://localhost:1313/certificates/crash-course-on-grid-system-and-responsive-design/</guid>
       <description></description>
     </item>
     <item>
       <title>UI/UX For Beginners</title>
-      <link>https://sakibsnaz.vercel.app/certificates/ui_ux_for_beginners/</link>
+      <link>http://localhost:1313/certificates/ui_ux_for_beginners/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.vercel.app/certificates/ui_ux_for_beginners/</guid>
+      <guid>http://localhost:1313/certificates/ui_ux_for_beginners/</guid>
       <description>I love building websites with WordPress, and I&amp;rsquo;m passionate about making them user-friendly. Recently, I took a beginner&amp;rsquo;s course on UI and UX from Great Learning to dive deeper into creating great user experiences. This course gave me awesome tips on how to design interfaces that are not only easy to use but also look fantastic.&#xA;Through my journey as a developer, I&amp;rsquo;ve realized how important it is to balance functionality with design.</description>
     </item>
     <item>
       <title>Advanced WordPress Development</title>
-      <link>https://sakibsnaz.vercel.app/certificates/advanced-wordpress-development/</link>
+      <link>http://localhost:1313/certificates/advanced-wordpress-development/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.vercel.app/certificates/advanced-wordpress-development/</guid>
+      <guid>http://localhost:1313/certificates/advanced-wordpress-development/</guid>
       <description>In this course I&amp;rsquo;ve learned:&#xA;Understanding of HTML for structuring web content. CSS for styling and layout customization. JavaScript knowledge for enhancing interactivity and user experience. Advanced PHP skills, including Object-Oriented Programming (OOP). Competence in jQuery for simplifying JavaScript tasks. Bootstrap proficiency for responsive and mobile-friendly design. MySQL for efficient database management. Theme customization using Elementor and Divi builders. WooCommerce, Contact Form 7 Eexpertise in plugin development to extend WordPress functionality.</description>
     </item>
     <item>
       <title>CS50’s Introduction to Databases with SQL</title>
-      <link>https://sakibsnaz.vercel.app/certificates/cs50-sql/</link>
+      <link>http://localhost:1313/certificates/cs50-sql/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.vercel.app/certificates/cs50-sql/</guid>
+      <guid>http://localhost:1313/certificates/cs50-sql/</guid>
       <description>This is CS50’s introduction to databases using a language called SQL. In this course I learned:&#xA;Introduction to databases using SQL in CS50. CRUD operations in relational databases (create, read, update, delete). Modeling real-world entities and relationships using tables. What is ERD Utilizing appropriate types, triggers, and constraints. Normalizing data to eliminate redundancies and reduce errors. Joining tables with primary and foreign keys. Automating searches with views and expediting with indexes.</description>
     </item>
   </channel>
