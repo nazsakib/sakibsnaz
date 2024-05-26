@@ -6,20 +6,20 @@
         {{- partial "sidebar.html" . -}}
         <!-- <div class="flex-1 max-w-full"> -->
         {{- block "main" . }}{{- end }}
+        <!-- whatsapp icon added -->
+        {{ partial "whatsapp.html" . }}
         <!-- </div> -->
         {{- partial "footer.html" . -}}
 
-
-
         <!-- Google analytics code -->
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag("js", new Date());
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
 
-    gtag("config", "G-BQ0BBXDZ75");
-</script>
+            gtag("config", "G-BQ0BBXDZ75");
+        </script>
     </body>
 </html>

@@ -10,6 +10,12 @@
     <link rel="icon" href="{{ if (isset .Site.Params "favicon") }}{{
     .Site.Params.favicon }}{{ else }}/favicon.ico{{ end }}">
 
+    <!-- font awesome link added -->
+    <script
+        src="https://kit.fontawesome.com/697c0af9d0.js"
+        crossorigin="anonymous"
+    ></script>
+
     <title>
         {{ block "title" . }} {{- .Title }} - {{ .Site.Title -}} {{ end }}
     </title>
