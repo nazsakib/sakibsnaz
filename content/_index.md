@@ -101,6 +101,8 @@ Bug Fixing/Testing/Dev Tools:
 
 [Click here to view my latest projects](https://www.sakibsnaz.com/projects)
 
+---
+
 ## Contact
 
 ```
