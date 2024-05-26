@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on sakibsNaz/&gt;</title>
-    <link>http://localhost:1313/services/</link>
+    <link>https://sakibsnaz.com/services/</link>
     <description>Recent content in Services on sakibsNaz/&gt;</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sakibsnaz.com/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bug and Error Fixing</title>
-      <link>http://localhost:1313/services/bug-fixing/</link>
+      <link>https://sakibsnaz.com/services/bug-fixing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/bug-fixing/</guid>
+      <guid>https://sakibsnaz.com/services/bug-fixing/</guid>
       <description>Your WordPress Website Solution Expert Hi there! I&amp;rsquo;m your friendly expert for all things WordPress, making sure your website runs smoothly without any headaches.&#xA;What I Do: I sort out any issues your site might be facing – whether it&amp;rsquo;s a wonky layout or links not working, I&amp;rsquo;ve got it covered. I&amp;rsquo;ll dive into the behind-the-scenes code to make sure everything is running just right.&#xA;Why Choose Me: When it comes to fixing issues on your WordPress site, I employ a strategic and thorough approach.</description>
     </item>
     <item>
       <title>Build Full and Functional Website</title>
-      <link>http://localhost:1313/services/full-website/</link>
+      <link>https://sakibsnaz.com/services/full-website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/full-website/</guid>
+      <guid>https://sakibsnaz.com/services/full-website/</guid>
       <description>Building Your Awesome WordPress Website Are you ready to showcase your skills and achievements with a stunning personal portfolio website? I&amp;rsquo;ve got you covered! 🚀&#xA;What I Do: 1. Design and Layout I start by creating a visually appealing design that reflects your style and personality. Your website will be easy to navigate, ensuring visitors find what they need effortlessly.&#xA;2. Content Integration I&amp;rsquo;ll seamlessly integrate your content—text, images, and media—making sure your portfolio tells your unique story.</description>
     </item>
     <item>
       <title>Search Engine Optimization</title>
-      <link>http://localhost:1313/services/seo/</link>
+      <link>https://sakibsnaz.com/services/seo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/seo/</guid>
+      <guid>https://sakibsnaz.com/services/seo/</guid>
       <description>Elevate Your Online Presence with SEO Magic ✨ Welcome to my SEO world! 🚀 I specialize in making websites shine in search results, ensuring that your online presence gets the attention it deserves.&#xA;What I Do I transform your website into a search engine superstar through:&#xA;1. Keyword Wizardry I identify the words people use to find businesses like yours and seamlessly integrate them into your content.&#xA;2. Content Enchantment Crafting engaging and relevant content that not only captivates your audience but also appeals to search engines.</description>
     </item>
     <item>
       <title>Site Maintenance</title>
-      <link>http://localhost:1313/services/maintenance/</link>
+      <link>https://sakibsnaz.com/services/maintenance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/maintenance/</guid>
+      <guid>https://sakibsnaz.com/services/maintenance/</guid>
       <description>Site Maintenance Services Ensuring your website stays in tip-top shape is my specialty. I offer comprehensive site maintenance services to keep your online space running smoothly, hassle-free. Here&amp;rsquo;s a breakdown of what I do:&#xA;1. Regular Backups I perform routine backups of your website, securing your valuable content. With backups in place, we&amp;rsquo;re ready for anything, from unexpected issues to future updates.&#xA;2. Software Updates Keeping your site&amp;rsquo;s software up to date is crucial for security and performance.</description>
     </item>
   </channel>
