@@ -14,6 +14,7 @@ Love to work with:
 Page Builder:
 ```
   - Elementor
+  - Divi
 
 ```
 Learning Management System:
@@ -41,6 +42,14 @@ Security:
 ```
   - Hide my WP Ghost Lite
   - Jetpack
+  - Wordfence
+
+```
+SEO:
+```
+  - Yoast SEO
+  - RankMath
+  - W3 Total Cache
 
 ```
 Payment:
@@ -50,12 +59,26 @@ Payment:
   - WooCommerce
 
 ```
-Forms
+Forms:
 ```
   - WP Forms
+  - Gravity Form
+  - Jet Form
   - Fluent Form
   - Contact Form 7
   - Metform
+
+```
+Migration/Backup:
+```
+  - All In One WP Migration
+  - Updraft Plus
+  - WP Reset
+
+```
+Others:
+```
+  - Crocoblock
 
 ```
 Themes:
@@ -64,6 +87,14 @@ Themes:
   - Astra
   - Tutor Starter
   - Travel Monster
+
+```
+Bug Fixing/Testing/Dev Tools:
+```
+  - Query Monitor
+  - DebugBar
+  - Log Deprecated Notices
+
 
 
 ## Latest Projects
