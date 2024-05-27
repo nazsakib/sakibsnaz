@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experience on sakibsNaz/&gt;</title>
-    <link>https://sakibsnaz.com/experience/</link>
+    <link>http://localhost:1313/experience/</link>
     <description>Recent content in Experience on sakibsNaz/&gt;</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sakibsnaz.com/experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WordPress Developer</title>
-      <link>https://sakibsnaz.com/experience/fiverr/</link>
+      <link>http://localhost:1313/experience/fiverr/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/experience/fiverr/</guid>
+      <guid>http://localhost:1313/experience/fiverr/</guid>
       <description></description>
     </item>
     <item>
       <title>WordPress Developer Intern</title>
-      <link>https://sakibsnaz.com/experience/softtechit-intern/</link>
+      <link>http://localhost:1313/experience/softtechit-intern/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/experience/softtechit-intern/</guid>
+      <guid>http://localhost:1313/experience/softtechit-intern/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod ipsum at diam cursus tristique. In a ullamcorper risus. Nam dapibus dolor et pellentesque condimentum. Nunc nec iaculis magna. In volutpat vitae augue eget pharetra. Quisque consectetur, nunc pulvinar lobortis laoreet, erat diam maximus elit, non egestas lectus lectus sed eros.</description>
     </item>
   </channel>
