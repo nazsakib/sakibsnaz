@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/watchlist/jack-reacher-copy/</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/watchlist/</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/flexakademi/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -22,6 +16,9 @@
   </url><url>
     <loc>http://localhost:1313/projects/tourvista/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/watchlist/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/watchlist/rise-of-empires-ottoman/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
