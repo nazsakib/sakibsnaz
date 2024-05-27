@@ -4,6 +4,7 @@ date: 2024-05-16
 description: E-learning management system.
 images: 
 - https://res.cloudinary.com/dr1nwz8am/image/upload/v1715851727/flexakademi_sakibsnaz_banner_wwdub6.webp
+summary: "A learning management system. Made using Elementor, Tutor LMS and some other essential plugins."
 ---
 
 ### 🚀 Flex Akademi: E-learning Management System

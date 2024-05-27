@@ -1,0 +1,9 @@
+{{ $latest := first 1 (sort .Site.RegularPages.ByDate.Reverse) }} {{ with index
+$latest 0 }}
+<div class="latest-post p-2 mb-4 border border-slate-500 rounded-lg shadow-md">
+    <h2 class="text-3xl font-bold">Latest Update</h2>
+    <h2 class="text-xl font-semibold mb-2">{{ .Title }}</h2>
+    <p class="mb-4">{{ .Summary }}</p>
+    <a href="{{ .RelPermalink }}">Read more</a>
+</div>
+{{ end }}
