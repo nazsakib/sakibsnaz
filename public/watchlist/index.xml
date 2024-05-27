@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Watchlist on sakibsNaz/&gt;</title>
-    <link>https://sakibsnaz.com/watchlist/</link>
+    <link>http://localhost:1313/watchlist/</link>
     <description>Recent content in My Watchlist on sakibsNaz/&gt;</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sakibsnaz.com/watchlist/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/watchlist/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rise of Empires - Ottoman</title>
-      <link>https://sakibsnaz.com/watchlist/rise-of-empires-ottoman/</link>
+      <link>http://localhost:1313/watchlist/rise-of-empires-ottoman/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/watchlist/rise-of-empires-ottoman/</guid>
+      <guid>http://localhost:1313/watchlist/rise-of-empires-ottoman/</guid>
       <description>A two-season, twelve-episode TV series based on historical events.</description>
     </item>
     <item>
       <title>Incendies</title>
-      <link>https://sakibsnaz.com/watchlist/incendies/</link>
+      <link>http://localhost:1313/watchlist/incendies/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/watchlist/incendies/</guid>
+      <guid>http://localhost:1313/watchlist/incendies/</guid>
       <description>Plot A dying mother writes to her children Jeanne and Simon requesting them to fulfil her last wishes. Following her instructions, they discover a world full of hatred, differences and love.&#xA;Some dialogues from this masterpiece: One plus one, does it make one?&#xA;Death is never the end of the story. It always leaves tracks.&#xA;Nothing is more beautiful than being together.&#xA;Childhood is like a knife stuck in the throat, which cannot be removed easily.</description>
     </item>
     <item>
       <title>An Exclusive Webinar on WordPress Plugin Development</title>
-      <link>https://sakibsnaz.com/watchlist/webinar-on-wp-plugin-development/</link>
+      <link>http://localhost:1313/watchlist/webinar-on-wp-plugin-development/</link>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/watchlist/webinar-on-wp-plugin-development/</guid>
+      <guid>http://localhost:1313/watchlist/webinar-on-wp-plugin-development/</guid>
       <description>Overview I recently had the amazing opportunity to attend A webinar organized by weDevs Academy on WordPress plugin development covers the best coding practices, career opportunities, and a Q&amp;amp;A session dedicated to this field. The session covered aspects such as career opportunities for developers, the current state of WordPress plugin development, and additional in-depth discussions on relevant subjects. hosted by and featuring industry leaders. It was an incredibly valuable chance to learn from senior experts like Hasin bhai, Nahid bhai, and Tareq bhai.</description>
     </item>
     <item>
       <title>Jack Reacher</title>
-      <link>https://sakibsnaz.com/watchlist/jack-reacher/</link>
+      <link>http://localhost:1313/watchlist/jack-reacher/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/watchlist/jack-reacher/</guid>
+      <guid>http://localhost:1313/watchlist/jack-reacher/</guid>
       <description>Release Date December 19, 2012&#xA;Cast Tom Cruise, Rosamund Pike, Lee Child, Alexia Fast, Warner Herzog and Jai Courtney&#xA;Plot When a former US Army sniper, James Barr, is accused of killing five people, Jack Reacher, a former Military Police officer, takes it upon himself to investigate the case.&#xA;Sequel Jack Reacher: Never Go Back&#xA;Review Jack Reacher is an old-fashioned type of guy — he doesn’t use a cell phone or credit cards, he travels by bus — and the first film adaptation of one of Lee Child’s Reacher novels has a correspondingly gritty, low-tech, real-muscle appeal.</description>
     </item>
     <item>
       <title>Top Gun - Maverick</title>
-      <link>https://sakibsnaz.com/watchlist/top-gun-maverick/</link>
+      <link>http://localhost:1313/watchlist/top-gun-maverick/</link>
       <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/watchlist/top-gun-maverick/</guid>
+      <guid>http://localhost:1313/watchlist/top-gun-maverick/</guid>
       <description>coming soon </description>
     </item>
     <item>
       <title>Mission Impossible - Dead Reckoning Part One</title>
-      <link>https://sakibsnaz.com/watchlist/mission-impossible-dr-1/</link>
+      <link>http://localhost:1313/watchlist/mission-impossible-dr-1/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/watchlist/mission-impossible-dr-1/</guid>
+      <guid>http://localhost:1313/watchlist/mission-impossible-dr-1/</guid>
       <description>coming soon </description>
     </item>
     <item>
       <title>Expend4bles</title>
-      <link>https://sakibsnaz.com/watchlist/expend4bles/</link>
+      <link>http://localhost:1313/watchlist/expend4bles/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/watchlist/expend4bles/</guid>
+      <guid>http://localhost:1313/watchlist/expend4bles/</guid>
       <description>coming soon </description>
     </item>
     <item>
       <title>The Dark Knight Trilogy</title>
-      <link>https://sakibsnaz.com/watchlist/the-dark-knight-trilogy/</link>
+      <link>http://localhost:1313/watchlist/the-dark-knight-trilogy/</link>
       <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/watchlist/the-dark-knight-trilogy/</guid>
+      <guid>http://localhost:1313/watchlist/the-dark-knight-trilogy/</guid>
       <description>coming soon </description>
     </item>
     <item>
       <title>The Shawshank Redemption</title>
-      <link>https://sakibsnaz.com/watchlist/the-shawshank-redemption/</link>
+      <link>http://localhost:1313/watchlist/the-shawshank-redemption/</link>
       <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/watchlist/the-shawshank-redemption/</guid>
+      <guid>http://localhost:1313/watchlist/the-shawshank-redemption/</guid>
       <description>coming soon </description>
     </item>
   </channel>
