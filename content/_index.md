@@ -97,17 +97,19 @@ Bug Fixing/Testing/Dev Tools:
 
 ---
 
-## Latest Projects
+```
+Latest Projects
+```
 
 [Click here to view my latest projects](https://www.sakibsnaz.com/projects)
 
 ---
 
-## Contact
-
+```
+Contact
 ```
 sayhello@sakibsnaz.com
-```
+
 
 ---
 
