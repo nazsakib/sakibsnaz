@@ -13,3 +13,24 @@ thumbnail: "https://res.cloudinary.com/dr1nwz8am/image/upload/c_thumb,w_200,g_fa
 See here: [Live](https://bmicalculator-sakibsnaz.vercel.app/) & [Code](https://github.com/nazsakib/bmi-calculator)
 
 ---
+
+```
+Languages
+```
+ - HTML
+ - TailwindCSS
+ - JavaScript
+
+```
+Build Tool
+```
+ - Vite
+
+```
+Functions
+```
+Taking height as feet and inches, then converting it into meters. Later, calculating BMI using the formula BMI = weight / (meter^2).
+
+---
+
+Thank You!
