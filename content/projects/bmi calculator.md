@@ -10,6 +10,6 @@ thumbnail: "https://res.cloudinary.com/dr1nwz8am/image/upload/c_thumb,w_200,g_fa
 
 ### 🚀 BMI Calculator
 
-See here: [Live](https://bmicalculator-sakibsnaz.vercel.app/)
+See here: [Live](https://bmicalculator-sakibsnaz.vercel.app/) & [Code](https://github.com/nazsakib/bmi-calculator)
 
 ---
