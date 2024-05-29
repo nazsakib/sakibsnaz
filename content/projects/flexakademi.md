@@ -5,7 +5,7 @@ description: E-learning management system.
 images: 
 - https://res.cloudinary.com/dr1nwz8am/image/upload/v1715851727/flexakademi_sakibsnaz_banner_wwdub6.webp
 summary: "A learning management system. Made using Elementor, Tutor LMS and some other essential plugins."
-thumbnail: "https://res.cloudinary.com/dr1nwz8am/image/upload/v1715851727/flexakademi_sakibsnaz_banner_wwdub6.webp"
+thumbnail: "https://res.cloudinary.com/dr1nwz8am/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1715851727/flexakademi_sakibsnaz_banner_wwdub6.webp"
 ---
 
 ### 🚀 Flex Akademi: E-learning Management System
