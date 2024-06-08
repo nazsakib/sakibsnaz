@@ -15,7 +15,7 @@ See here: [Live](https://bmicalculator-sakibsnaz.vercel.app/) & [Code](https://g
 ---
 
 ```
-Languages
+Tech Stack
 ```
  - HTML
  - TailwindCSS
