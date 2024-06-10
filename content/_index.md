@@ -115,13 +115,5 @@ sayhello@sakibsnaz.com
 
 ---
 
-```
-Free consultation
-```
-[Calendly](https://www.calendly.com/sakibsnaz)
-
----
-
-
 → [Check here for more details!](https://www.linkedin.com/in/sakibsnaz/)
 
