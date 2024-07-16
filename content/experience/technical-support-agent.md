@@ -2,7 +2,7 @@
 title: Technical Support Agent
 date: 2024-07-17
 images:
-- https://fastly.picsum.photos/id/60/1920/1200.jpg?hmac=fAMNjl4E_sG_WNUjdU39Kald5QAHQMh-_-TsIbbeDNI
+- https://zeptoapps.com/cdn/shop/files/Zepto-logo.png?v=1659417999&width=230
 description: Zepto Apps | Currently Working | Started On July 14, 2024
 ---
 
@@ -16,3 +16,5 @@ description: Zepto Apps | Currently Working | Started On July 14, 2024
  - Resolve customer inquiries, issues, and complaints efficiently via email, chat, and phone.
  - Collaborate with the development team to report bugs, suggest improvements, and implement solutions based on user feedback.
  - Update and writing documentation.
+
+---
