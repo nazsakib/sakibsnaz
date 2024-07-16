@@ -6,10 +6,6 @@ images:
 description: Zepto Apps | Currently Working | Started On July 14, 2024
 ---
 
-
-
----
-
 ### What I Do
 
  - Provide technical support and troubleshooting assistance for the Zepto Product Personalizer app to ensure proper user experience for Shopify store owners.
