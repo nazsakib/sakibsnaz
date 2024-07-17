@@ -15,7 +15,7 @@ description: Zepto Apps | Currently Working | Started On July 14, 2024
 
 ---
 
-#### Officil Websites
+#### Official Websites
 
 - [Zepto Apps](https://zeptoapps.com/)
 - [Zepto Product Personalizer](https://productpersonalizer.com/)
