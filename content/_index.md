@@ -9,9 +9,9 @@ draft: false
 
 I am currently working as a Technical Support Engineer with expertise in Shopify and WordPress.
 
-Within the WordPress ecosystem, I specialize in Learning Management Systems, booking systems, and landing pages. My technical skill set includes HTML, CSS, JavaScript, PHP, Figma to HTML, jQuery, Bootstrap, and Tailwind.
+My technical skill set includes HTML, CSS, JavaScript, PHP, Figma to HTML, jQuery, Bootstrap, and Tailwind, Shopify and WordPress.
 
-Beyond my professional responsibilities, I actively contribute to the WordPress.org official community, where I collaborate with fellow enthusiasts and contribute to the ongoing development and enhancement of WordPress.
+Beyond my professional responsibilities, I actively contribute to the WordPress.org official community.
 
 ---
 
