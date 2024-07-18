@@ -2,283 +2,283 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on sakibsNaz/&gt;</title>
-    <link>http://localhost:1313/</link>
+    <link>https://sakibsnaz.com/</link>
     <description>Recent content in Home on sakibsNaz/&gt;</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sakibsnaz.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technical Support Agent</title>
-      <link>http://localhost:1313/experience/technical-support-agent/</link>
+      <link>https://sakibsnaz.com/experience/technical-support-agent/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/technical-support-agent/</guid>
+      <guid>https://sakibsnaz.com/experience/technical-support-agent/</guid>
       <description>What I Do Provide technical support and troubleshooting assistance for the Zepto Product Personalizer app to ensure proper user experience for Shopify store owners. Resolve customer inquiries, issues, and complaints efficiently via email, chat, and phone. Collaborate with the development team to report bugs, suggest improvements, and implement solutions based on user feedback. Update and writing documentation. Official Websites Zepto Apps Zepto Product Personalizer Product Personalizer In Shopify App Store </description>
     </item>
     <item>
       <title>CRUD - PHP &amp; MySQL</title>
-      <link>http://localhost:1313/projects/grade-crud-using-php-mysql/</link>
+      <link>https://sakibsnaz.com/projects/grade-crud-using-php-mysql/</link>
       <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/grade-crud-using-php-mysql/</guid>
+      <guid>https://sakibsnaz.com/projects/grade-crud-using-php-mysql/</guid>
       <description>Grade system CRUD using PHP and MySQL</description>
     </item>
     <item>
       <title>BMI Calculator</title>
-      <link>http://localhost:1313/projects/bmi-calculator/</link>
+      <link>https://sakibsnaz.com/projects/bmi-calculator/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/bmi-calculator/</guid>
+      <guid>https://sakibsnaz.com/projects/bmi-calculator/</guid>
       <description>Using JavaScript &amp;amp; Tailwindcss. A simple BMI Calculator.</description>
     </item>
     <item>
       <title>Interstate 60</title>
-      <link>http://localhost:1313/watchlist/interstate-60/</link>
+      <link>https://sakibsnaz.com/watchlist/interstate-60/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/watchlist/interstate-60/</guid>
+      <guid>https://sakibsnaz.com/watchlist/interstate-60/</guid>
       <description>Cyclone Remal plunged us into darkness for nearly 20 hours. Trapped indoors, I stumbled upon this movie&amp;hellip; and wow, what a movie!</description>
     </item>
     <item>
       <title>Flex Akademi</title>
-      <link>http://localhost:1313/projects/flexakademi/</link>
+      <link>https://sakibsnaz.com/projects/flexakademi/</link>
       <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/flexakademi/</guid>
+      <guid>https://sakibsnaz.com/projects/flexakademi/</guid>
       <description>A learning management system. Made using Elementor, Tutor LMS and some other essential plugins.</description>
     </item>
     <item>
       <title>How to setup WooCommerce with Tutor LMS</title>
-      <link>http://localhost:1313/articles/how-to-setup-woocommerce-with-tutor-lms/</link>
+      <link>https://sakibsnaz.com/articles/how-to-setup-woocommerce-with-tutor-lms/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/how-to-setup-woocommerce-with-tutor-lms/</guid>
+      <guid>https://sakibsnaz.com/articles/how-to-setup-woocommerce-with-tutor-lms/</guid>
       <description>Tutor LMS has some excellent features and one of them is integration with WooCommerce. For paid course it&amp;rsquo;s kind of a mandatatory feature of Learning Management Systems. Here&amp;rsquo;s a step by step way to enable the WooCommerce as an ecommerce engine:&#xA;Step 1:&#xA;First, from Tutor LMS, click on Settings.&#xA;Step 2:&#xA;From settings, click on Monetization.&#xA;Step 3:&#xA;After clicking Monetization, click on &amp;lsquo;Select e-commerce engine&amp;rsquo;&#xA;Step 4:&#xA;Click &amp;lsquo;Select Option&amp;rsquo; for expand it and choose &amp;lsquo;WooCommerce&amp;rsquo;.</description>
     </item>
     <item>
       <title>Migrate Hugo site from Vercel to another Hosting/Domain | Web Dev</title>
-      <link>http://localhost:1313/articles/migrate-hugo-site-from-vercel-to-hosting/</link>
+      <link>https://sakibsnaz.com/articles/migrate-hugo-site-from-vercel-to-hosting/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/migrate-hugo-site-from-vercel-to-hosting/</guid>
+      <guid>https://sakibsnaz.com/articles/migrate-hugo-site-from-vercel-to-hosting/</guid>
       <description>Check out my recent YouTube video for a quick guide on smoothly shifting your Hugo site from Vercel to hosting. This move can save costs and give you more control over your website. First, make sure your site&amp;rsquo;s on GitHub, then pick a hosting service that fits your needs. Set up your hosting, move your files over, and solve any problems that pop up. Test everything out to make sure your site works well in its new home.</description>
     </item>
     <item>
       <title>TourVista</title>
-      <link>http://localhost:1313/projects/tourvista/</link>
+      <link>https://sakibsnaz.com/projects/tourvista/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/tourvista/</guid>
+      <guid>https://sakibsnaz.com/projects/tourvista/</guid>
       <description>🚀 TourVista: Where adventure begins. Explore, book, and make memories effortlessly. See here: Website&#xA;Case Study: TourVista - A Travel Booking Platform Makeover Client Background TourVista, a growing travel startup, came to us with a dream: to simplify how people book and enjoy travel adventures. They wanted a website where anyone could effortlessly plan trips, book accommodations, and find exciting activities.&#xA;Challenges Mobile-Friendly Design: Creating a responsive website that delivers a seamless experience across all devices.</description>
     </item>
     <item>
       <title>Rise of Empires - Ottoman</title>
-      <link>http://localhost:1313/watchlist/rise-of-empires-ottoman/</link>
+      <link>https://sakibsnaz.com/watchlist/rise-of-empires-ottoman/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/watchlist/rise-of-empires-ottoman/</guid>
+      <guid>https://sakibsnaz.com/watchlist/rise-of-empires-ottoman/</guid>
       <description>A two-season, twelve-episode TV series based on historical events.</description>
     </item>
     <item>
       <title>5 Best Booking Plugins for WordPress in 2024</title>
-      <link>http://localhost:1313/articles/best-booking-plugins-for-wordpress-in-2024/</link>
+      <link>https://sakibsnaz.com/articles/best-booking-plugins-for-wordpress-in-2024/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/best-booking-plugins-for-wordpress-in-2024/</guid>
+      <guid>https://sakibsnaz.com/articles/best-booking-plugins-for-wordpress-in-2024/</guid>
       <description>Table of Contents Introduction BookingPress WooCommerce Bookings Bookly Pro Amelia Simply Schedule Appointments Conclusion Introduction Welcome to the Comprehensive Guide to Booking Plugins for WordPress! In today&amp;rsquo;s digital age, managing appointments and reservations efficiently is crucial for businesses of all sizes. WordPress offers a plethora of booking plugins, each with its unique features and functionalities.&#xA;This guide aims to provide you with insights into the top booking plugins available for WordPress.</description>
     </item>
     <item>
       <title>Exploring the Top 5 WordPress LMS Plugins for Enhanced Online Learning</title>
-      <link>http://localhost:1313/articles/5-best-lms-plugin-for-wordpress/</link>
+      <link>https://sakibsnaz.com/articles/5-best-lms-plugin-for-wordpress/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/5-best-lms-plugin-for-wordpress/</guid>
+      <guid>https://sakibsnaz.com/articles/5-best-lms-plugin-for-wordpress/</guid>
       <description>Diving into the world of online education, we find ourselves confronted with a myriad of options to amplify our teaching prowess. Among these tools, Learning Management Systems (LMS) reign supreme, acting as the cornerstone of virtual classrooms. In the bustling ecosystem of WordPress, where innovation meets accessibility, a plethora of LMS plugins await exploration, promising to revolutionize the digital learning landscape. Join us as we embark on a journey to uncover the top five contenders that stand tall in the realm of WordPress LMS plugins.</description>
     </item>
     <item>
       <title>Incendies</title>
-      <link>http://localhost:1313/watchlist/incendies/</link>
+      <link>https://sakibsnaz.com/watchlist/incendies/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/watchlist/incendies/</guid>
+      <guid>https://sakibsnaz.com/watchlist/incendies/</guid>
       <description>Plot A dying mother writes to her children Jeanne and Simon requesting them to fulfil her last wishes. Following her instructions, they discover a world full of hatred, differences and love.&#xA;Some dialogues from this masterpiece: One plus one, does it make one?&#xA;Death is never the end of the story. It always leaves tracks.&#xA;Nothing is more beautiful than being together.&#xA;Childhood is like a knife stuck in the throat, which cannot be removed easily.</description>
     </item>
     <item>
       <title>Crash Course on Grid system and Responsive design</title>
-      <link>http://localhost:1313/certificates/crash-course-on-grid-system-and-responsive-design/</link>
+      <link>https://sakibsnaz.com/certificates/crash-course-on-grid-system-and-responsive-design/</link>
       <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/certificates/crash-course-on-grid-system-and-responsive-design/</guid>
+      <guid>https://sakibsnaz.com/certificates/crash-course-on-grid-system-and-responsive-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Customer Support Skills</title>
-      <link>http://localhost:1313/watchlist/customer-support-skills/</link>
+      <link>https://sakibsnaz.com/watchlist/customer-support-skills/</link>
       <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/watchlist/customer-support-skills/</guid>
+      <guid>https://sakibsnaz.com/watchlist/customer-support-skills/</guid>
       <description>Course Customer Support Skills Academy Freshworks Academy&#xA;Platform Udemy&#xA;Learning Outcome How to write clear and effective email that clearly and professionally help customers to solve their issues. How to manage difficult and tough conversations with confidence. No matter what keeping the conversation calm and polite. Showing empathy. Understanding and respond the customer emotions, making them feel safe and valued. Make them comfortable. Make a email or response templates for the common issues.</description>
     </item>
     <item>
       <title>UI/UX For Beginners</title>
-      <link>http://localhost:1313/certificates/ui_ux_for_beginners/</link>
+      <link>https://sakibsnaz.com/certificates/ui_ux_for_beginners/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/certificates/ui_ux_for_beginners/</guid>
+      <guid>https://sakibsnaz.com/certificates/ui_ux_for_beginners/</guid>
       <description>I love building websites with WordPress, and I&amp;rsquo;m passionate about making them user-friendly. Recently, I took a beginner&amp;rsquo;s course on UI and UX from Great Learning to dive deeper into creating great user experiences. This course gave me awesome tips on how to design interfaces that are not only easy to use but also look fantastic.&#xA;Through my journey as a developer, I&amp;rsquo;ve realized how important it is to balance functionality with design.</description>
     </item>
     <item>
       <title>An Exclusive Webinar on WordPress Plugin Development</title>
-      <link>http://localhost:1313/watchlist/webinar-on-wp-plugin-development/</link>
+      <link>https://sakibsnaz.com/watchlist/webinar-on-wp-plugin-development/</link>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/watchlist/webinar-on-wp-plugin-development/</guid>
+      <guid>https://sakibsnaz.com/watchlist/webinar-on-wp-plugin-development/</guid>
       <description>Overview I recently had the amazing opportunity to attend A webinar organized by weDevs Academy on WordPress plugin development covers the best coding practices, career opportunities, and a Q&amp;amp;A session dedicated to this field. The session covered aspects such as career opportunities for developers, the current state of WordPress plugin development, and additional in-depth discussions on relevant subjects. hosted by and featuring industry leaders. It was an incredibly valuable chance to learn from senior experts like Hasin bhai, Nahid bhai, and Tareq bhai.</description>
     </item>
     <item>
       <title>Jack Reacher</title>
-      <link>http://localhost:1313/watchlist/jack-reacher/</link>
+      <link>https://sakibsnaz.com/watchlist/jack-reacher/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/watchlist/jack-reacher/</guid>
+      <guid>https://sakibsnaz.com/watchlist/jack-reacher/</guid>
       <description>Release Date December 19, 2012&#xA;Cast Tom Cruise, Rosamund Pike, Lee Child, Alexia Fast, Warner Herzog and Jai Courtney&#xA;Plot When a former US Army sniper, James Barr, is accused of killing five people, Jack Reacher, a former Military Police officer, takes it upon himself to investigate the case.&#xA;Sequel Jack Reacher: Never Go Back&#xA;Review Jack Reacher is an old-fashioned type of guy — he doesn’t use a cell phone or credit cards, he travels by bus — and the first film adaptation of one of Lee Child’s Reacher novels has a correspondingly gritty, low-tech, real-muscle appeal.</description>
     </item>
     <item>
       <title>WordPress Developer</title>
-      <link>http://localhost:1313/experience/fiverr/</link>
+      <link>https://sakibsnaz.com/experience/fiverr/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/fiverr/</guid>
+      <guid>https://sakibsnaz.com/experience/fiverr/</guid>
       <description></description>
     </item>
     <item>
       <title>WordPress Developer Intern</title>
-      <link>http://localhost:1313/experience/softtechit-intern/</link>
+      <link>https://sakibsnaz.com/experience/softtechit-intern/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/softtechit-intern/</guid>
+      <guid>https://sakibsnaz.com/experience/softtechit-intern/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod ipsum at diam cursus tristique. In a ullamcorper risus. Nam dapibus dolor et pellentesque condimentum. Nunc nec iaculis magna. In volutpat vitae augue eget pharetra. Quisque consectetur, nunc pulvinar lobortis laoreet, erat diam maximus elit, non egestas lectus lectus sed eros.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod ipsum at diam cursus tristique. In a ullamcorper risus. Nam dapibus dolor et pellentesque condimentum.</description>
     </item>
     <item>
       <title>Advanced WordPress Development</title>
-      <link>http://localhost:1313/certificates/advanced-wordpress-development/</link>
+      <link>https://sakibsnaz.com/certificates/advanced-wordpress-development/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/certificates/advanced-wordpress-development/</guid>
+      <guid>https://sakibsnaz.com/certificates/advanced-wordpress-development/</guid>
       <description>In this course I&amp;rsquo;ve learned:&#xA;Understanding of HTML for structuring web content. CSS for styling and layout customization. JavaScript knowledge for enhancing interactivity and user experience. Advanced PHP skills, including Object-Oriented Programming (OOP). Competence in jQuery for simplifying JavaScript tasks. Bootstrap proficiency for responsive and mobile-friendly design. MySQL for efficient database management. Theme customization using Elementor and Divi builders. WooCommerce, Contact Form 7 Eexpertise in plugin development to extend WordPress functionality.</description>
     </item>
     <item>
       <title>CS50’s Introduction to Databases with SQL</title>
-      <link>http://localhost:1313/certificates/cs50-sql/</link>
+      <link>https://sakibsnaz.com/certificates/cs50-sql/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/certificates/cs50-sql/</guid>
+      <guid>https://sakibsnaz.com/certificates/cs50-sql/</guid>
       <description>This is CS50’s introduction to databases using a language called SQL. In this course I learned:&#xA;Introduction to databases using SQL in CS50. CRUD operations in relational databases (create, read, update, delete). Modeling real-world entities and relationships using tables. What is ERD Utilizing appropriate types, triggers, and constraints. Normalizing data to eliminate redundancies and reduce errors. Joining tables with primary and foreign keys. Automating searches with views and expediting with indexes.</description>
     </item>
     <item>
       <title>Top Gun - Maverick</title>
-      <link>http://localhost:1313/watchlist/top-gun-maverick/</link>
+      <link>https://sakibsnaz.com/watchlist/top-gun-maverick/</link>
       <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/watchlist/top-gun-maverick/</guid>
+      <guid>https://sakibsnaz.com/watchlist/top-gun-maverick/</guid>
       <description>coming soon </description>
     </item>
     <item>
       <title>Mission Impossible - Dead Reckoning Part One</title>
-      <link>http://localhost:1313/watchlist/mission-impossible-dr-1/</link>
+      <link>https://sakibsnaz.com/watchlist/mission-impossible-dr-1/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/watchlist/mission-impossible-dr-1/</guid>
+      <guid>https://sakibsnaz.com/watchlist/mission-impossible-dr-1/</guid>
       <description>coming soon </description>
     </item>
     <item>
       <title>Expend4bles</title>
-      <link>http://localhost:1313/watchlist/expend4bles/</link>
+      <link>https://sakibsnaz.com/watchlist/expend4bles/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/watchlist/expend4bles/</guid>
+      <guid>https://sakibsnaz.com/watchlist/expend4bles/</guid>
       <description>coming soon </description>
     </item>
     <item>
       <title>Learning Management System with Payment Gateway</title>
-      <link>http://localhost:1313/projects/lms/</link>
+      <link>https://sakibsnaz.com/projects/lms/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/lms/</guid>
+      <guid>https://sakibsnaz.com/projects/lms/</guid>
       <description></description>
     </item>
     <item>
       <title>The 48 Laws of Power</title>
-      <link>http://localhost:1313/reading_list/the-48-laws-of-power/</link>
+      <link>https://sakibsnaz.com/reading_list/the-48-laws-of-power/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reading_list/the-48-laws-of-power/</guid>
+      <guid>https://sakibsnaz.com/reading_list/the-48-laws-of-power/</guid>
       <description>coming soon </description>
     </item>
     <item>
       <title>Cleaning Comapny Website</title>
-      <link>http://localhost:1313/projects/cleaning-company-site/</link>
+      <link>https://sakibsnaz.com/projects/cleaning-company-site/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/cleaning-company-site/</guid>
+      <guid>https://sakibsnaz.com/projects/cleaning-company-site/</guid>
       <description>🚀 A cleaning company website with booking and payment gateway functionalities. See here: Behance&#xA;Greetings!&#xA;I&amp;rsquo;m thrilled to present my latest solo project – a dynamic WordPress website that not only showcases my passion for web development but also seamlessly integrates advanced booking functionalities and secure payment gateways. Using HTML, CSS, JavaScript, and PHP, I&amp;rsquo;ve created a versatile platform that goes beyond the ordinary.&#xA;Key Accomplishments:&#xA;🎨 Elementor Expertise: I&amp;rsquo;ve harnessed the power of Elementor, a cornerstone in my toolkit, to design visually stunning layouts that captivate visitors.</description>
     </item>
     <item>
       <title>পার্থিব</title>
-      <link>http://localhost:1313/reading_list/parthib-by-shirshendu-mukhopaddhay/</link>
+      <link>https://sakibsnaz.com/reading_list/parthib-by-shirshendu-mukhopaddhay/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reading_list/parthib-by-shirshendu-mukhopaddhay/</guid>
+      <guid>https://sakibsnaz.com/reading_list/parthib-by-shirshendu-mukhopaddhay/</guid>
       <description>রিভিউ বইটির নাম পার্থিব না দিয়ে অপার্থিব দিলে হয়তো অনুভূতিটা শুধু নাম দিয়েই প্রকাশ করে দিতে পারতাম।</description>
     </item>
     <item>
       <title>গৃহদাহ</title>
-      <link>http://localhost:1313/reading_list/grihodaho/</link>
+      <link>https://sakibsnaz.com/reading_list/grihodaho/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reading_list/grihodaho/</guid>
+      <guid>https://sakibsnaz.com/reading_list/grihodaho/</guid>
       <description>coming soon </description>
     </item>
     <item>
       <title>দ্য টুয়েন্টিয়েথ ওয়াইফ</title>
-      <link>http://localhost:1313/reading_list/the-twentieth-wife/</link>
+      <link>https://sakibsnaz.com/reading_list/the-twentieth-wife/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reading_list/the-twentieth-wife/</guid>
+      <guid>https://sakibsnaz.com/reading_list/the-twentieth-wife/</guid>
       <description>coming soon </description>
     </item>
     <item>
       <title>Originals - How Non-Conformists Move the World</title>
-      <link>http://localhost:1313/reading_list/originals/</link>
+      <link>https://sakibsnaz.com/reading_list/originals/</link>
       <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reading_list/originals/</guid>
+      <guid>https://sakibsnaz.com/reading_list/originals/</guid>
       <description></description>
     </item>
     <item>
       <title>The Dark Knight Trilogy</title>
-      <link>http://localhost:1313/watchlist/the-dark-knight-trilogy/</link>
+      <link>https://sakibsnaz.com/watchlist/the-dark-knight-trilogy/</link>
       <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/watchlist/the-dark-knight-trilogy/</guid>
+      <guid>https://sakibsnaz.com/watchlist/the-dark-knight-trilogy/</guid>
       <description>coming soon </description>
     </item>
     <item>
       <title>The Shawshank Redemption</title>
-      <link>http://localhost:1313/watchlist/the-shawshank-redemption/</link>
+      <link>https://sakibsnaz.com/watchlist/the-shawshank-redemption/</link>
       <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/watchlist/the-shawshank-redemption/</guid>
+      <guid>https://sakibsnaz.com/watchlist/the-shawshank-redemption/</guid>
       <description>coming soon </description>
     </item>
     <item>
       <title>অপেক্ষা</title>
-      <link>http://localhost:1313/reading_list/opekkha/</link>
+      <link>https://sakibsnaz.com/reading_list/opekkha/</link>
       <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reading_list/opekkha/</guid>
+      <guid>https://sakibsnaz.com/reading_list/opekkha/</guid>
       <description></description>
     </item>
     <item>
       <title>The Alchemist</title>
-      <link>http://localhost:1313/reading_list/the-alchemist/</link>
+      <link>https://sakibsnaz.com/reading_list/the-alchemist/</link>
       <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reading_list/the-alchemist/</guid>
+      <guid>https://sakibsnaz.com/reading_list/the-alchemist/</guid>
       <description>coming soon </description>
     </item>
     <item>
       <title>Bug and Error Fixing</title>
-      <link>http://localhost:1313/services/bug-fixing/</link>
+      <link>https://sakibsnaz.com/services/bug-fixing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/bug-fixing/</guid>
+      <guid>https://sakibsnaz.com/services/bug-fixing/</guid>
       <description>Your WordPress Website Solution Expert Hi there! I&amp;rsquo;m your friendly expert for all things WordPress, making sure your website runs smoothly without any headaches.&#xA;What I Do: I sort out any issues your site might be facing – whether it&amp;rsquo;s a wonky layout or links not working, I&amp;rsquo;ve got it covered. I&amp;rsquo;ll dive into the behind-the-scenes code to make sure everything is running just right.&#xA;Why Choose Me: When it comes to fixing issues on your WordPress site, I employ a strategic and thorough approach.</description>
     </item>
     <item>
       <title>Build Full and Functional Website</title>
-      <link>http://localhost:1313/services/full-website/</link>
+      <link>https://sakibsnaz.com/services/full-website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/full-website/</guid>
+      <guid>https://sakibsnaz.com/services/full-website/</guid>
       <description>Building Your Awesome WordPress Website Are you ready to showcase your skills and achievements with a stunning personal portfolio website? I&amp;rsquo;ve got you covered! 🚀&#xA;What I Do: 1. Design and Layout I start by creating a visually appealing design that reflects your style and personality. Your website will be easy to navigate, ensuring visitors find what they need effortlessly.&#xA;2. Content Integration I&amp;rsquo;ll seamlessly integrate your content—text, images, and media—making sure your portfolio tells your unique story.</description>
     </item>
     <item>
       <title>Search Engine Optimization</title>
-      <link>http://localhost:1313/services/seo/</link>
+      <link>https://sakibsnaz.com/services/seo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/seo/</guid>
+      <guid>https://sakibsnaz.com/services/seo/</guid>
       <description>Elevate Your Online Presence with SEO Magic ✨ Welcome to my SEO world! 🚀 I specialize in making websites shine in search results, ensuring that your online presence gets the attention it deserves.&#xA;What I Do I transform your website into a search engine superstar through:&#xA;1. Keyword Wizardry I identify the words people use to find businesses like yours and seamlessly integrate them into your content.&#xA;2. Content Enchantment Crafting engaging and relevant content that not only captivates your audience but also appeals to search engines.</description>
     </item>
     <item>
       <title>Site Maintenance</title>
-      <link>http://localhost:1313/services/maintenance/</link>
+      <link>https://sakibsnaz.com/services/maintenance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/maintenance/</guid>
+      <guid>https://sakibsnaz.com/services/maintenance/</guid>
       <description>Site Maintenance Services Ensuring your website stays in tip-top shape is my specialty. I offer comprehensive site maintenance services to keep your online space running smoothly, hassle-free. Here&amp;rsquo;s a breakdown of what I do:&#xA;1. Regular Backups I perform routine backups of your website, securing your valuable content. With backups in place, we&amp;rsquo;re ready for anything, from unexpected issues to future updates.&#xA;2. Software Updates Keeping your site&amp;rsquo;s software up to date is crucial for security and performance.</description>
     </item>
   </channel>
