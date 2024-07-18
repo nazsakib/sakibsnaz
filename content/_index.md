@@ -7,7 +7,9 @@ draft: false
 ## Hello there!
 ### Welcome!
 
-As a Technical Support Engineer at Zepto Apps, a leading Shopify SaaS-based company, I specialize in delivering exceptional technical assistance for the Zepto Product Personalizer app. My role involves resolving customer inquiries for Shopify store owners, and providing support to optimize the app's functionality.
+I am currently working as a Technical Support Engineer with expertise in Shopify and WordPress.
+
+Within the WordPress ecosystem, I specialize in Learning Management Systems, booking systems, and landing pages. My technical skill set includes HTML, CSS, JavaScript, PHP, Figma to HTML, jQuery, Bootstrap, and Tailwind.
 
 Beyond my professional responsibilities, I actively contribute to the WordPress.org official community, where I collaborate with fellow enthusiasts and contribute to the ongoing development and enhancement of WordPress.
 
