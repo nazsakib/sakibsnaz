@@ -15,8 +15,13 @@ description: Zepto Apps | Currently Working | Started On July 14, 2024
 
 ---
 
-#### Official Websites
+#### Apps in Shopify App Store
+
+- [Zepto Product Personalizer](https://apps.shopify.com/product-personalizer)
+- [PopMan](https://apps.shopify.com/popman-popups-social)
+
+---
+
+#### Official Website
 
 - [Zepto Apps](https://zeptoapps.com/)
-- [Zepto Product Personalizer](https://productpersonalizer.com/)
-- [Product Personalizer In Shopify App Store](https://apps.shopify.com/product-personalizer)
