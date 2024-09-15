@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experience on sakibsNaz/&gt;</title>
-    <link>http://localhost:43399/experience/</link>
+    <link>https://sakibsnaz.com/experience/</link>
     <description>Recent content in Experience on sakibsNaz/&gt;</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:43399/experience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sakibsnaz.com/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technical Support Agent</title>
-      <link>http://localhost:43399/experience/technical-support-agent/</link>
+      <link>https://sakibsnaz.com/experience/technical-support-agent/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43399/experience/technical-support-agent/</guid>
+      <guid>https://sakibsnaz.com/experience/technical-support-agent/</guid>
       <description>What I Do Provide technical support and troubleshooting assistance for the Zepto Product Personalizer app to ensure proper user experience for Shopify store owners. Resolve customer inquiries, issues, and complaints efficiently via email, chat, and phone. Collaborate with the development team to report bugs, suggest improvements, and implement solutions based on user feedback. Update and writing documentation. Apps in Shopify App Store Zepto Product Personalizer PopMan Official Website Zepto Apps </description>
     </item>
     <item>
       <title>WordPress Developer</title>
-      <link>http://localhost:43399/experience/fiverr/</link>
+      <link>https://sakibsnaz.com/experience/fiverr/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43399/experience/fiverr/</guid>
+      <guid>https://sakibsnaz.com/experience/fiverr/</guid>
       <description></description>
     </item>
     <item>
       <title>WordPress Developer Intern</title>
-      <link>http://localhost:43399/experience/softtechit-intern/</link>
+      <link>https://sakibsnaz.com/experience/softtechit-intern/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:43399/experience/softtechit-intern/</guid>
+      <guid>https://sakibsnaz.com/experience/softtechit-intern/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod ipsum at diam cursus tristique. In a ullamcorper risus. Nam dapibus dolor et pellentesque condimentum. Nunc nec iaculis magna. In volutpat vitae augue eget pharetra. Quisque consectetur, nunc pulvinar lobortis laoreet, erat diam maximus elit, non egestas lectus lectus sed eros.&#xA;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod ipsum at diam cursus tristique. In a ullamcorper risus. Nam dapibus dolor et pellentesque condimentum.</description>
     </item>
   </channel>
