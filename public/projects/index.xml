@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on sakibsNaz/&gt;</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>http://localhost:43399/projects/</link>
     <description>Recent content in Projects on sakibsNaz/&gt;</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43399/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CRUD - PHP &amp; MySQL</title>
-      <link>http://localhost:1313/projects/grade-crud-using-php-mysql/</link>
+      <link>http://localhost:43399/projects/grade-crud-using-php-mysql/</link>
       <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/grade-crud-using-php-mysql/</guid>
+      <guid>http://localhost:43399/projects/grade-crud-using-php-mysql/</guid>
       <description>Grade system CRUD using PHP and MySQL</description>
     </item>
     <item>
       <title>BMI Calculator</title>
-      <link>http://localhost:1313/projects/bmi-calculator/</link>
+      <link>http://localhost:43399/projects/bmi-calculator/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/bmi-calculator/</guid>
+      <guid>http://localhost:43399/projects/bmi-calculator/</guid>
       <description>Using JavaScript &amp;amp; Tailwindcss. A simple BMI Calculator.</description>
     </item>
     <item>
       <title>Flex Akademi</title>
-      <link>http://localhost:1313/projects/flexakademi/</link>
+      <link>http://localhost:43399/projects/flexakademi/</link>
       <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/flexakademi/</guid>
+      <guid>http://localhost:43399/projects/flexakademi/</guid>
       <description>A learning management system. Made using Elementor, Tutor LMS and some other essential plugins.</description>
     </item>
     <item>
       <title>TourVista</title>
-      <link>http://localhost:1313/projects/tourvista/</link>
+      <link>http://localhost:43399/projects/tourvista/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/tourvista/</guid>
+      <guid>http://localhost:43399/projects/tourvista/</guid>
       <description>🚀 TourVista: Where adventure begins. Explore, book, and make memories effortlessly. See here: Website&#xA;Case Study: TourVista - A Travel Booking Platform Makeover Client Background TourVista, a growing travel startup, came to us with a dream: to simplify how people book and enjoy travel adventures. They wanted a website where anyone could effortlessly plan trips, book accommodations, and find exciting activities.&#xA;Challenges Mobile-Friendly Design: Creating a responsive website that delivers a seamless experience across all devices.</description>
     </item>
     <item>
       <title>Learning Management System with Payment Gateway</title>
-      <link>http://localhost:1313/projects/lms/</link>
+      <link>http://localhost:43399/projects/lms/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/lms/</guid>
+      <guid>http://localhost:43399/projects/lms/</guid>
       <description></description>
     </item>
     <item>
       <title>Cleaning Comapny Website</title>
-      <link>http://localhost:1313/projects/cleaning-company-site/</link>
+      <link>http://localhost:43399/projects/cleaning-company-site/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/cleaning-company-site/</guid>
+      <guid>http://localhost:43399/projects/cleaning-company-site/</guid>
       <description>🚀 A cleaning company website with booking and payment gateway functionalities. See here: Behance&#xA;Greetings!&#xA;I&amp;rsquo;m thrilled to present my latest solo project – a dynamic WordPress website that not only showcases my passion for web development but also seamlessly integrates advanced booking functionalities and secure payment gateways. Using HTML, CSS, JavaScript, and PHP, I&amp;rsquo;ve created a versatile platform that goes beyond the ordinary.&#xA;Key Accomplishments:&#xA;🎨 Elementor Expertise: I&amp;rsquo;ve harnessed the power of Elementor, a cornerstone in my toolkit, to design visually stunning layouts that captivate visitors.</description>
     </item>
   </channel>
