@@ -29,10 +29,6 @@ name = '🛠️ Stack'
 url = '/stack'
 weight = 60
 [[menu.main]]
-name = '👨🏾‍🔧 Services'
-url = '/services'
-weight = 70
-[[menu.main]]
 name = '🧾 Certificates'
 url = '/certificates'
 weight = 80
