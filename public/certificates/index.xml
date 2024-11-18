@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Certifications on sakibsNaz/&gt;</title>
-    <link>http://localhost:1313/certificates/</link>
+    <link>https://sakibsnaz.com/certificates/</link>
     <description>Recent content in Certifications on sakibsNaz/&gt;</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/certificates/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sakibsnaz.com/certificates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crash Course on Grid system and Responsive design</title>
-      <link>http://localhost:1313/certificates/crash-course-on-grid-system-and-responsive-design/</link>
+      <link>https://sakibsnaz.com/certificates/crash-course-on-grid-system-and-responsive-design/</link>
       <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/certificates/crash-course-on-grid-system-and-responsive-design/</guid>
+      <guid>https://sakibsnaz.com/certificates/crash-course-on-grid-system-and-responsive-design/</guid>
       <description></description>
     </item>
     <item>
       <title>UI/UX For Beginners</title>
-      <link>http://localhost:1313/certificates/ui_ux_for_beginners/</link>
+      <link>https://sakibsnaz.com/certificates/ui_ux_for_beginners/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/certificates/ui_ux_for_beginners/</guid>
+      <guid>https://sakibsnaz.com/certificates/ui_ux_for_beginners/</guid>
       <description>&lt;p&gt;I love building websites with WordPress, and I&amp;rsquo;m passionate about making them user-friendly. Recently, I took a beginner&amp;rsquo;s course on UI and UX from Great Learning to dive deeper into creating great user experiences. This course gave me awesome tips on how to design interfaces that are not only easy to use but also look fantastic.&lt;/p&gt;&#xA;&lt;p&gt;Through my journey as a developer, I&amp;rsquo;ve realized how important it is to balance functionality with design. With my skills in WordPress and my new knowledge of UI/UX, I can create websites that not only look good but also make users happy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advanced WordPress Development</title>
-      <link>http://localhost:1313/certificates/advanced-wordpress-development/</link>
+      <link>https://sakibsnaz.com/certificates/advanced-wordpress-development/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/certificates/advanced-wordpress-development/</guid>
+      <guid>https://sakibsnaz.com/certificates/advanced-wordpress-development/</guid>
       <description>&lt;p&gt;In this course I&amp;rsquo;ve learned:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Understanding of &lt;strong&gt;HTML&lt;/strong&gt; for structuring web content.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;CSS&lt;/strong&gt; for styling and layout customization.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt; knowledge for enhancing interactivity and user experience.&lt;/li&gt;&#xA;&lt;li&gt;Advanced &lt;strong&gt;PHP&lt;/strong&gt; skills, including &lt;strong&gt;Object-Oriented Programming&lt;/strong&gt; (OOP).&lt;/li&gt;&#xA;&lt;li&gt;Competence in &lt;strong&gt;jQuery&lt;/strong&gt; for simplifying JavaScript tasks.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bootstrap&lt;/strong&gt; proficiency for &lt;strong&gt;responsive&lt;/strong&gt; and &lt;strong&gt;mobile-friendly&lt;/strong&gt; design.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;MySQL&lt;/strong&gt; for efficient database management.&lt;/li&gt;&#xA;&lt;li&gt;Theme customization using &lt;strong&gt;Elementor&lt;/strong&gt; and &lt;strong&gt;Divi&lt;/strong&gt; builders.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;WooCommerce&lt;/strong&gt;, &lt;strong&gt;Contact Form 7&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Eexpertise in &lt;strong&gt;plugin development&lt;/strong&gt; to extend WordPress functionality.&lt;/li&gt;&#xA;&lt;li&gt;Skillful in both &lt;strong&gt;theme development&lt;/strong&gt; and &lt;strong&gt;child theme&lt;/strong&gt; creation.&lt;/li&gt;&#xA;&lt;li&gt;Well-versed in integrating and customizing various WordPress themes.&lt;/li&gt;&#xA;&lt;li&gt;Applied knowledge in creating &lt;strong&gt;dynamic&lt;/strong&gt; and &lt;strong&gt;interactive&lt;/strong&gt; web applications.&lt;/li&gt;&#xA;&lt;li&gt;Completed assignments and projects demonstrating real-world application of skills.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I&amp;rsquo;m excited to apply my advanced WordPress knowledge in developing robust and feature-rich websites. Eager to contribute to projects that demand high-level customization and optimization!&lt;/p&gt;</description>
     </item>
     <item>
       <title>CS50’s Introduction to Databases with SQL</title>
-      <link>http://localhost:1313/certificates/cs50-sql/</link>
+      <link>https://sakibsnaz.com/certificates/cs50-sql/</link>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/certificates/cs50-sql/</guid>
+      <guid>https://sakibsnaz.com/certificates/cs50-sql/</guid>
       <description>&lt;p&gt;This is CS50’s introduction to databases using a language called SQL. In this course I learned:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Introduction to databases using SQL in CS50.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;CRUD&lt;/strong&gt; operations in relational databases (create, read, update, delete).&lt;/li&gt;&#xA;&lt;li&gt;Modeling real-world entities and relationships using tables.&lt;/li&gt;&#xA;&lt;li&gt;What is &lt;strong&gt;ERD&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Utilizing appropriate &lt;strong&gt;types&lt;/strong&gt;, &lt;strong&gt;triggers&lt;/strong&gt;, and &lt;strong&gt;constraints&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Normalizing data to eliminate &lt;strong&gt;redundancies&lt;/strong&gt; and &lt;strong&gt;reduce errors&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Joining tables with primary and foreign keys.&lt;/li&gt;&#xA;&lt;li&gt;Automating searches with views and expediting with indexes.&lt;/li&gt;&#xA;&lt;li&gt;Connecting SQL with languages like &lt;strong&gt;Python&lt;/strong&gt; and Java. But I choose Python.&lt;/li&gt;&#xA;&lt;li&gt;Beginning with &lt;strong&gt;SQLite&lt;/strong&gt; for portability, ending with &lt;strong&gt;PostgreSQL&lt;/strong&gt; and &lt;strong&gt;MySQL for scalability&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Assignments inspired by &lt;strong&gt;real-world datasets&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I&amp;rsquo;m eager to leverage my SQL knowledge in managing and extracting insights from databases. Excited to contribute to projects that involve effective data management!&lt;/p&gt;</description>
     </item>
   </channel>
