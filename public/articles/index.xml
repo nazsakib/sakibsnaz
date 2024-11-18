@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on sakibsNaz/&gt;</title>
-    <link>https://sakibsnaz.com/articles/</link>
+    <link>http://localhost:1313/articles/</link>
     <description>Recent content in Articles on sakibsNaz/&gt;</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sakibsnaz.com/articles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to install Time Doctor 2 on Manjaro Linux</title>
-      <link>https://sakibsnaz.com/articles/how-to-install-timedoctor-2-on-manjaro-linux/</link>
+      <link>http://localhost:1313/articles/how-to-install-timedoctor-2-on-manjaro-linux/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/articles/how-to-install-timedoctor-2-on-manjaro-linux/</guid>
+      <guid>http://localhost:1313/articles/how-to-install-timedoctor-2-on-manjaro-linux/</guid>
       <description>&lt;h1 id=&#34;installing-time-doctor-2-on-manjaro-linux&#34;&gt;Installing Time Doctor 2 on Manjaro Linux&lt;/h1&gt;&#xA;&lt;p&gt;In today’s work environment, keeping track of time and staying productive is really important, whether you’re working on a team or as a freelancer. Time Doctor 2 is a helpful time tracking tool that lets you record how much time you spend on tasks, manage your work, and even track breaks. It helps people and businesses make the most of their time and get more done.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to setup WooCommerce with Tutor LMS</title>
-      <link>https://sakibsnaz.com/articles/how-to-setup-woocommerce-with-tutor-lms/</link>
+      <link>http://localhost:1313/articles/how-to-setup-woocommerce-with-tutor-lms/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/articles/how-to-setup-woocommerce-with-tutor-lms/</guid>
+      <guid>http://localhost:1313/articles/how-to-setup-woocommerce-with-tutor-lms/</guid>
       <description>&lt;p&gt;Tutor LMS has some excellent features and one of them is integration with WooCommerce. For paid course it&amp;rsquo;s kind of a mandatatory feature of Learning Management Systems. Here&amp;rsquo;s a step by step way to enable the WooCommerce as an ecommerce engine:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Step 1:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/dr1nwz8am/image/upload/v1715360755/settings_tutor_lms_sakibsnaz_hy2mze.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;First, from Tutor LMS, click on Settings.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Step 2:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/dr1nwz8am/image/upload/v1715360269/tutor_lms_monetization_sakibsnaz_tutor_lms_integration_with_woocommerce_dk63w9.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;From settings, click on Monetization.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Step 3:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/dr1nwz8am/image/upload/v1715360269/search_engine_sakibsnaz_tutor_lms_integration_with_woocommerce_mkic5o.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;After clicking Monetization, click on &amp;lsquo;Select e-commerce engine&amp;rsquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Migrate Hugo site from Vercel to another Hosting/Domain | Web Dev</title>
-      <link>https://sakibsnaz.com/articles/migrate-hugo-site-from-vercel-to-hosting/</link>
+      <link>http://localhost:1313/articles/migrate-hugo-site-from-vercel-to-hosting/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/articles/migrate-hugo-site-from-vercel-to-hosting/</guid>
+      <guid>http://localhost:1313/articles/migrate-hugo-site-from-vercel-to-hosting/</guid>
       <description>&lt;p&gt;Check out my recent YouTube video for a quick guide on smoothly shifting your Hugo site from Vercel to hosting. This move can save costs and give you more control over your website. First, make sure your site&amp;rsquo;s on GitHub, then pick a hosting service that fits your needs. Set up your hosting, move your files over, and solve any problems that pop up. Test everything out to make sure your site works well in its new home. For more details, watch the video and make the switch with confidence.&lt;/p&gt;</description>
     </item>
     <item>
       <title>5 Best Booking Plugins for WordPress in 2024</title>
-      <link>https://sakibsnaz.com/articles/best-booking-plugins-for-wordpress-in-2024/</link>
+      <link>http://localhost:1313/articles/best-booking-plugins-for-wordpress-in-2024/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/articles/best-booking-plugins-for-wordpress-in-2024/</guid>
-      <description>&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#introduction&#34; &gt;Introduction&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#1-bookingpress&#34; &gt;BookingPress&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#2-woocommerce-bookings&#34; &gt;WooCommerce Bookings&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#3-bookly-pro&#34; &gt;Bookly Pro&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#4-amelia&#34; &gt;Amelia&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#5-simply-schedule-appointments&#34; &gt;Simply Schedule Appointments&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#conclusion&#34; &gt;Conclusion&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to the Comprehensive Guide to Booking Plugins for WordPress! In today&amp;rsquo;s digital age, managing appointments and reservations efficiently is crucial for businesses of all sizes. WordPress offers a plethora of booking plugins, each with its unique features and functionalities.&lt;/p&gt;&#xA;&lt;p&gt;This guide aims to provide you with insights into the top booking plugins available for WordPress. From seamless integration to customization options, we&amp;rsquo;ll explore the key features, advantages, and disadvantages of each plugin to help you make an informed decision for your business.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/articles/best-booking-plugins-for-wordpress-in-2024/</guid>
+      <description>&lt;p&gt;Check out the 5 Best Booking Plugins for WordPress in 2024 to manage appointments, reservations, and schedules with ease. These plugins are ideal for businesses like salons, hotels, clinics, and more, offering user-friendly features such as customizable booking forms, calendar synchronization, payment options, and automated reminders to improve customer experience and streamline your booking process.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to the Comprehensive Guide to Booking Plugins for WordPress! In today&amp;rsquo;s digital age, managing appointments and reservations efficiently is crucial for businesses of all sizes. WordPress offers a plethora of booking plugins, each with its unique features and functionalities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring the Top 5 WordPress LMS Plugins for Enhanced Online Learning</title>
-      <link>https://sakibsnaz.com/articles/5-best-lms-plugin-for-wordpress/</link>
+      <link>http://localhost:1313/articles/5-best-lms-plugin-for-wordpress/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://sakibsnaz.com/articles/5-best-lms-plugin-for-wordpress/</guid>
+      <guid>http://localhost:1313/articles/5-best-lms-plugin-for-wordpress/</guid>
       <description>&lt;p&gt;Diving into the world of online education, we find ourselves confronted with a myriad of options to amplify our teaching prowess. Among these tools, Learning Management Systems (LMS) reign supreme, acting as the cornerstone of virtual classrooms. In the bustling ecosystem of WordPress, where innovation meets accessibility, a plethora of LMS plugins await exploration, promising to revolutionize the digital learning landscape. Join us as we embark on a journey to uncover the top five contenders that stand tall in the realm of WordPress LMS plugins.&lt;/p&gt;</description>
     </item>
   </channel>
