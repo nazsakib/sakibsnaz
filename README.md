@@ -1,6 +1,6 @@
 # Portfolio
 
-[Check here](https://www.sakibsnaz.vercel.app/)
+[Check here](https://sakibsnaz.vercel.app/)
 
 ## Overview
 
